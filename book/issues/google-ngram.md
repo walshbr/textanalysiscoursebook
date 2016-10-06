@@ -1,7 +1,8 @@
 ---
 layout: lesson
 title:  Google NGram Viewer
----The [Google NGram Viewer](https://books.google.com/ngrams) is often the first thing brought out when people discuss large-scale textual analysis, and it serves nicely as a basic introduction into the possibilities of computer-assisted reading. 
+---
+The [Google NGram Viewer](https://books.google.com/ngrams) is often the first thing brought out when people discuss large-scale textual analysis, and it serves nicely as a basic introduction into the possibilities of computer-assisted reading. 
 
 ![google ngram splash page](/textanalysiscoursebook/assets/issues/google-ngram-viewer.jpg)
 
@@ -11,7 +12,7 @@ The tool allows you to search hundreds of thousands of texts quickly and, by tra
 
 
 
-<img class="iframe-image-sub" src="/assets/issues/science-religion.jpg" alt="science and religion">
+<img class="iframe-image-sub" src="/textanalysiscoursebook/assets/issues/science-religion.jpg" alt="science and religion">
 
 Looking at the graph, one could see evidence for an argument about the increasing secularization of society in the last two centuries. The steady increase of usage of the word science over the last 200 years accompanied by the precipitous decline of the word religion beginning in the mid-nineteenth century could provide concrete evidence for what might otherwise be anecdotal. But not so fast: what is actually being measured here? We need to ask questions about a number of pieces of this argument, including ones regarding:
 
@@ -44,13 +45,13 @@ We have three n-grams of length 1 ("a", "test" and "sentence"), two n-grams of l
 
  
 
- <img src="/assets/issues/scandal.jpg" class="iframe-image-sub" alt="scandal ngram">
+ <img src="/textanalysiscoursebook/assets/issues/scandal.jpg" class="iframe-image-sub" alt="scandal ngram">
 
 It appears like something fairly dramatic happened around 1660 that caused a massive spike in the usage of 'scandal.' This in itself could be significant, but we might be interested in more nuanced readings of this data. We might want to see, say, bigrams containing scandal like 'political scandal' and 'religious scandal' to observe when certain types of scandals come into prominence. The NGram Viewer allows for a number of nuanced searches that you can read about [here](https://books.google.com/ngrams/info). For now, let's try out a wildcard search - '* scandal':
 
 
 
- <img src="/assets/issues/wildcard-scandal.jpg" class="iframe-image-sub" alt="bigram of wildcard scandal">
+ <img src="/textanalysiscoursebook/assets/issues/wildcard-scandal.jpg" class="iframe-image-sub" alt="bigram of wildcard scandal">
 
 
 The asterisk in searches like this matches anything, so it will return all two-word phrases containing 'scandal' as a second word. And, handy for us, it will show us the top ten uses. In this case, they're almost all articles or prepositions: 'the scandal,' 'a scandal,' 'of scandal,' etc. And they all seem to spike around 1660 as well. We would need more information about this time period to tell exactly what is going on here, and to do so we might want to specifically exclude these common usages.  Given the relative unreliability of N-Grams before 1820, this dramatic uptick might be due to just a few works that used the term "scandal" around this time -- and might not be representative of larger patterns.
@@ -59,7 +60,7 @@ We might also want to look at different forms of the same word. After all, the a
 
 
 
- <img src="/assets/issues/forms-of-scandal.jpg" class="iframe-image-sub" alt="forms of scandal ngram">
+ <img src="/textanalysiscoursebook/assets/issues/forms-of-scandal.jpg" class="iframe-image-sub" alt="forms of scandal ngram">
 
 That massive spike we see in the use of 'scandal' is not quite matched by other forms of the word. In particular, the adjective form 'scandalous' enjoys more usage until the mid-nineteenth century. Maybe scandal as a noun, as an idea, as a thing unto itself explodes onto the scene in the mid-nineteenth century, wereas before it was something more a thing attached to other people, places, and events. 
 
@@ -67,13 +68,13 @@ To drill down more deeply into another term relevant to this course, check out t
 
 
 
- <img src="/assets/issues/english-crime-ngram.jpg" class="iframe-image-sub" alt="english crime ngram">
+ <img src="/textanalysiscoursebook/assets/issues/english-crime-ngram.jpg" class="iframe-image-sub" alt="english crime ngram">
 
 According to this chart, after a drop during the early-eighteenth century, English writers discussed crime more consistently and ubiquitously than ever before. But what about authors writing in other languages? Here is the same search in French. 
 
  
 
- <img src="/assets/issues/french-crime-ngram.jpg" class="iframe-image-sub" alt="french crime ngram">
+ <img src="/textanalysiscoursebook/assets/issues/french-crime-ngram.jpg" class="iframe-image-sub" alt="french crime ngram">
 
 The general trend of more mentions of crime in the 19th century than the 20th holds true in both the French and English corpora. However, if you pay careful attention to the y-axis you will note that French authors actually are mentioning crime far more frequently relative to the rest of the writing at the time. The trends are similar, but the percentage of times 'crime' shows up is much higher in France. In England during this time, uses of the word hover around 0.0045. French writing mentioning 'crime' is over double that percentage during the same period, and it does not dip down to that number until 1880.  
 
@@ -85,7 +86,7 @@ Or, let's say we were interested in history of scientific racism in European and
 
 
 
- <img src="/assets/issues/race.jpg" class="iframe-image-sub" alt="race ngram">
+ <img src="/textanalysiscoursebook/assets/issues/race.jpg" class="iframe-image-sub" alt="race ngram">
 
 This N-Gram shows an increasing use of this term over the course of the eighteenth and nineteenth century, peaking around 1890 and then gradually declining in the twentieth century, albeit with some upswings. On the one hand, scientific racism had one of its heydays in the late nineteenth century, so maybe this N-Gram shows this historical trend.  But as soon as you think more about this topic, you would realize that it's a lot more complicated that this.  For one, it might strike you as a little odd that the line dips in the late 1950s and early 1960s, an era when the Civil Rights movement was emerging.  Were people really writing _less_ about race then than before? Alternatively, the term "race" can mean a lot of different things; in this case, the results we are interested in (the categorization of people according to their phenotypes) are undoubtedly getting jumbled in with references to sporting events and elections. And as soon as we started doing research on the history of scientific racism, we would learn that writers used the term "race" to refer to groups of people in different ways in the eighteenth century than they did at the end of the nineteenth century.  We would also want to think about terms that are associated with or used as synonyms for race. Maybe authors in the twentieth century were using other words to talk about race? If so, what might those be?
 

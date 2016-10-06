@@ -23,7 +23,7 @@ Concordances like these are some of the oldest forms of text analysis that we ha
 
 Busa's work took years. We can now carry out similar searches in seconds, and we can learn a lot by simply counting words. The most frequent words, by far, are 'said' and 'Todd," which makes a certain amount of sense. Many characters might speak and, when they do, they are probably talking about or to the central character, if they aren't Todd himself.
 
-<img src="/assets/cyborg-readers/voyant-settings.jpg" alt="voyant settings" class="img-right"/>
+<img src="/textanalysiscoursebook/assets/cyborg-readers/voyant-settings.jpg" alt="voyant settings" class="img-right"/>
 
 Notice the words that you do not see on this list: words like 'a' or 'the.' Words like these, what we call **stopwords**, are _so_ common that they are frequently excluded from analyses entirely, the reasoning being that they become something like linguistic noise, overshadowing words that might be more meaningful to the document. To see the words that Voyant excludes by default, hover next to the question mark at the top of the pane and click the second option from the right.
 

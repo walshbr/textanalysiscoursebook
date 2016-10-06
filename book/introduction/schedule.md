@@ -21,7 +21,7 @@ Through this course, students will be introduced to text analysis and data minin
 * Understanding Scandal
   * Ari Adut, _On Scandal_, Introduction and Chapter 1
   * Patrick Leary, "[Googling the Victorians](http://www.victorianresearch.org/googling.pdf)"
-  * [Introduction](/textanalysiscoursebook/book/introduction.md) and [Issues in Digital Text Analysis](/textanalysiscoursebook/book/issues-in-digital-text-analysis.md) in this book
+  * [Introduction](/textanalysiscoursebook/book/introduction) and [Issues in Digital Text Analysis](/textanalysiscoursebook/book/issues-in-digital-text-analysis) in this book
 
 ### Week 2
 
@@ -33,7 +33,7 @@ Through this course, students will be introduced to text analysis and data minin
 * Scandal and Monarchy, Part II 
   * Tamara Hunt, “Morality and Monarchy in the Queen Caroline Affair” 
   * Find two articles dating from the Queen Caroline Affair in the 19th Century British Newspapers Collection 
-  * [Close Reading](/textanalysiscoursebook/book/close-reading.md) in this book
+  * [Close Reading](/textanalysiscoursebook/book/close-reading) in this book
 
 * **First Paper Due: Analysis of a Scandal**
 
@@ -46,7 +46,7 @@ Through this course, students will be introduced to text analysis and data minin
 
 * The Spectacle of Punishment 
   * Michel Foucault, _Discipline and Punish_, selections 
-  * [Crowdsourcing](/textanalysiscoursebook/book/crowdsourcing.md) in this book
+  * [Crowdsourcing](/textanalysiscoursebook/book/crowdsourcing) in this book
 
 ### Week 4
 
@@ -58,7 +58,7 @@ Through this course, students will be introduced to text analysis and data minin
 * Female Criminality 
   * Lisa Downing, “Murder in the Feminine: Marie Lafarge and the Sexualization of the Nineteenth-Century Criminal Woman” 
   * Cesare Lombroso, _Criminal Woman, the Prostitute and the Normal Woman_, selections 
-  * [Digital Archives](/textanalysiscoursebook/book/archives.md) in this book
+  * [Digital Archives](/textanalysiscoursebook/book/archives) in this book
 
 
 * **Second Paper Due: Analysis of a Nineteeth-Century Archive**
@@ -72,7 +72,7 @@ Through this course, students will be introduced to text analysis and data minin
 * The Rise of Detective Fiction 
   * Michael Saler, “’Clap if You Believe in Sherlock Holmes’: Mass Culture and the Re-Enchantment of Modernity, c. 1890-1940" 
   * Arthur Conan Doyle, "[A Scandal in Bohemia](http://www.gutenberg.org/files/1661/1661-h/1661-h.htm#)"
-  * [Data Cleaning](/textanalysiscoursebook/book/data-cleaning.md) in this book
+  * [Data Cleaning](/textanalysiscoursebook/book/data-cleaning) in this book
 
 ### Week 6
 
@@ -85,7 +85,7 @@ Through this course, students will be introduced to text analysis and data minin
 * Violence and Entertainment, Part II 
   * Rosalind Crone, _Violent Victorians_, Chapter 6 
   * Find an article on a 19th century murder from the _Times_ from the [_Dictionary of Victorian London_](http://www.victorianlondon.org/index-2012.htm) 
-  * [Cyborg Readers](/textanalysiscoursebook/book/cyborg-readers.md) in this book
+  * [Cyborg Readers](/textanalysiscoursebook/book/cyborg-readers) in this book
 
 
 * **Final Group Project Proposals Due**
@@ -98,7 +98,7 @@ Through this course, students will be introduced to text analysis and data minin
 
 * The Spectacle of the City, Part II 
   * Vanessa Schwartz, _Spectacular Realities_, Chapters 2 and 3 
-  * [Reading at Scale](/textanalysiscoursebook/book/reading-at-scale.md) in this book
+  * [Reading at Scale](/textanalysiscoursebook/book/reading-at-scale) in this book
 
 ### Week 8
 
@@ -110,7 +110,7 @@ Through this course, students will be introduced to text analysis and data minin
 * Sex and Death in the City 
   * Judith Walkowitz, “Jack the Ripper and the Myth of Male Violence” 
   * Find two articles on Jack the Ripper from [Casebook: Jack the Ripper](http://www.casebook.org/press_reports/) 
-  * [Topic Modeling](/textanalysiscoursebook/book/topic-modeling.md) in this book
+  * [Topic Modeling](/textanalysiscoursebook/book/topic-modeling) in this book
 
 
 * **Annotated Bibliography Due**
@@ -127,13 +127,13 @@ Through this course, students will be introduced to text analysis and data minin
   * Cleuci de Oliveira, "[Saartjie Baartman: The Original Booty Queen](http://jezebel.com/saartje-baartman-the-original-booty-queen-1658569879)" 
   * Pia Glenn, "[You Can’t Ignore the Degradation of Saartjie Baartman to Connect Her to Kim Kardashian. You Just Can’t](http://www.xojane.com/issues/saartjie-baartman-kim-kardashian)" 
   * Danielle Bowler, "[Saartjie Baartman is not ‘The Original Booty Queen’](http://ewn.co.za/2014/11/17/OPINION-Danielle-Bowler-Saartjie-Baartman-is-not-the-original-booty-queen)" 
-  * [Classifiers](/textanalysiscoursebook/book/classifiers.md) in this book
+  * [Classifiers](/textanalysiscoursebook/book/classifiers) in this book
 
 ### Week 10
 
 * Politics, National Identity and Scandal 
   * Michael Burns, _France and the Dreyfus Affair_, selections 
-  * [Sentiment Analysis](/textanalysiscoursebook/book/sentiment-analysis.md) in this book
+  * [Sentiment Analysis](/textanalysiscoursebook/book/sentiment-analysis) in this book
 
 
 * Scandals and Contemporary Media 
@@ -151,7 +151,7 @@ Through this course, students will be introduced to text analysis and data minin
 * Crime, Scandal and Politics in the Present Day 
   * Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, "[Machine Bias: There’s software used across the country to predict future criminals. And it’s biased against blacks](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)" 
   * Matt Bai, "[How Gary Hart’s Downfall Forever Changed American Politics](http://www.nytimes.com/2014/09/21/magazine/how-gary-harts-downfall-forever-changed-american-politics.html)" 
-  * [Conclusion](/textanalysiscoursebook/book/conclusion.md) in this book
+  * [Conclusion](/textanalysiscoursebook/book/conclusion) in this book
 
 
 ### Week 12

@@ -14,7 +14,7 @@ If you have ever tried to access a resource from an online newspaper only to be 
 
 * Keeping materials online requires sustained funding over time. How can open access work be maintained if they are presented for free?
 
-Once materials are put online, it is possible to connect them to a wider, global network of similar digital materials. In the same way that a library gathers information about its materials to organize in a systematic way \(more on **metadata** in our lesson on "[Problems with Data](/textanalysiscoursebook/book/data-cleaning.problems-with-data.md)"\), scholars and archivists have to oversee this process for this networking to happen. For instance, technical standards shift \(TEI tags can change over time\), so archival materials require constant maintenance. If you have ever used a digital archive, you have benefited from a vast and often invisible amount of labor happening behind the scenes. The hidden work of gallery, library, archive, and museum \(or **GLAM**\) professionals ensures that our cultural heritage will remain accessible and sustainable for centuries to come.
+Once materials are put online, it is possible to connect them to a wider, global network of similar digital materials. In the same way that a library gathers information about its materials to organize in a systematic way \(more on **metadata** in our lesson on "[Problems with Data](/textanalysiscoursebook/book/data-cleaning.problems-with-data)"\), scholars and archivists have to oversee this process for this networking to happen. For instance, technical standards shift \(TEI tags can change over time\), so archival materials require constant maintenance. If you have ever used a digital archive, you have benefited from a vast and often invisible amount of labor happening behind the scenes. The hidden work of gallery, library, archive, and museum \(or **GLAM**\) professionals ensures that our cultural heritage will remain accessible and sustainable for centuries to come.
 
 ![nines splash page](/textanalysiscoursebook/assets/archives/nines-splash.jpg)
 
@@ -26,7 +26,7 @@ You might also notice that NINES has a relatively expansive view of what the nin
 
 Archives submit themselves for affiliation with NINES so that their materials can be searchable alongside other NINES sites, but first they must pass a rigorous process of **peer review** first. Academic journals rely on peer review to ensure that scholarship meets particular standards of rigor and relevance; it is a bit like quality control for scholarly writing. The peer review process typically involves submitting an article or book to a series of reviewers who write letters in support or rejection of the project and offer suggestions for improvement. The process is double-blind; the reviewers don't know who the authors are and vice versa. Should the piece pass, it moves onto publication and receives the explicit seal of approval from the publication.
 
-<img src="/assets/archives/nines-old-bailey-search.jpg" alt="old bailey federated search results" class="img-right">
+<img src="/textanalysiscoursebook/assets/archives/nines-old-bailey-search.jpg" alt="old bailey federated search results" class="img-right">
 
 **Why go through peer review?**
 

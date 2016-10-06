@@ -1,6 +1,7 @@
 ---
 layout: page
-title:  Close Reading
+title: Close Reading
+id: 4
 ---
 * [Close Reading and Sources](/textanalysiscoursebook/book/close-reading/close-reading)
 

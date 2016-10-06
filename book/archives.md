@@ -1,6 +1,7 @@
 ---
 layout: page
-title:  Digital Archives
+title: Digital Archives
+id: 6
 ---
 * [Text Encoding Initiative](/textanalysiscoursebook/book/archives/tei)
 

@@ -75,5 +75,5 @@ Similar processes have been used for a variety of authorship attribution cases. 
 
 If we can measure it, we can test it. And you would be surprised at just how many humanities-based research questions we can measure. Taking complicated human concepts like authorship and breaking them down into quantifiable pieces is part of the fun. It is also what makes the process intellectually interesting. If it were easy, it would be boring.
 
-We have just barely scratched the surface of the field of **stylometry**, or the study of linguistic style using a variety of statistical metrics. You can carry this research process using a variety of programming languages, so you might take a look at our concluding chapter on [Where to Go Next](/textanalysiscoursebook/book/conclusion/where-to-go.md) if you are interested in learning how to implement these sorts of experiments yourself.
+We have just barely scratched the surface of the field of **stylometry**, or the study of linguistic style using a variety of statistical metrics. You can carry this research process using a variety of programming languages, so you might take a look at our concluding chapter on [Where to Go Next](/textanalysiscoursebook/book/conclusion/where-to-go) if you are interested in learning how to implement these sorts of experiments yourself.
 

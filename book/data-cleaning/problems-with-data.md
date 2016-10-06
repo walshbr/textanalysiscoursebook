@@ -8,7 +8,7 @@ The basic principle to remember is **garbage in, garbage out (or GIGO)**: you wo
 
 ## OCR
 
-<img src="/assets/data-cleaning/holmes.jpg" alt="sherlock holmes article clipping" class="img-right">
+<img src="/textanalysiscoursebook/assets/data-cleaning/holmes.jpg" alt="sherlock holmes article clipping" class="img-right">
 
 Take this image, drawn from a 1922 printing of *[The Duluth Herald](https://archive.org/details/duluthherald10311922unse)*, of a newspaper ad for the American film version of Sherlock Holmes.
 
@@ -19,7 +19,7 @@ The process of using software to extract the text from an image of a text is cal
 <div class="clear"></div>
 
 
-<img src="/assets/data-cleaning/holmes-ocr-text.jpg" alt="ocr'd sherlock holmes text" class="img-right" id="ocr-image"/>
+<img src="/textanalysiscoursebook/assets/data-cleaning/holmes-ocr-text.jpg" alt="ocr'd sherlock holmes text" class="img-right" id="ocr-image"/>
 
 Running this image through tesseract, a common free tool for OCR'ing text, we get the computer's best garbled attempt at translating image into text (at right).
 
@@ -37,7 +37,7 @@ We're going to count to ten!
 
 You probably meant to have a 9 in there, and a human reading it would most likely know that there was a mistake. But the computer will have no idea that you accidentally left out a number. You would have to specifically tell it to account for such errors. This simple fact about computational logic becomes a big problem in the humanities, because humanities data is _messy_. To see what we mean, go check out the Wikipedia section on Sir Arthur Conan Doyle's [name](https://en.wikipedia.org/wiki/Arthur_Conan_Doyle#Name). We will wait. Here is a picture of a cat in the meantime. Imagine it's a cat high fiving you when you clean up some data.
 
-<img src="/assets/data-cleaning/data-cat-high-five.jpg" alt="high fiving cat" class="img-right"/>
+<img src="/textanalysiscoursebook/assets/data-cleaning/data-cat-high-five.jpg" alt="high fiving cat" class="img-right"/>
 
 Did you read it? Promise?
 

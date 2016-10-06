@@ -1,6 +1,7 @@
 ---
 layout: page
-title:  Cyborg Readers
+title: Cyborg Readers
+id: 8
 ---
 * [How Computers Read Texts](/textanalysiscoursebook/book/cyborg-readers/computer-reading)
 

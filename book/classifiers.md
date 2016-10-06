@@ -1,6 +1,7 @@
 ---
 layout: page
-title:  Classifiers
+title: Classifiers
+id: 11
 ---
 * [Supervised Classifiers](/textanalysiscoursebook/book/classifiers/supervised-classifiers)
 

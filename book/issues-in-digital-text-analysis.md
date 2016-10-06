@@ -1,6 +1,7 @@
 ---
 layout: page
-title:  Issues in Digital Text Analysis
+title: Issues in Digital Text Analysis
+id: 3
 ---
 * [Why Read with a Computer](/textanalysiscoursebook/book/issues/why-read-with-a-computer)
 

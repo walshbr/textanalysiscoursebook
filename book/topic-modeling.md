@@ -1,6 +1,7 @@
 ---
 layout: page
-title:  Topic Modeling
+title: Topic Modeling
+id: 10
 ---
 * [Bags of Words](/textanalysiscoursebook/book/topic-modeling/bags-of-words)
 
