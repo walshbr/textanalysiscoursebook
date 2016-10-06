@@ -103,7 +103,7 @@ def main():
         print(fn)
         convert_file(fn)
     convert_file('_includes/SUMMARY.md', False)
-    convert_file('_includes/README.md', True)
+    convert_file('_includes/README.md', False)
 
 
 if __name__ == '__main__':

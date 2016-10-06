@@ -1,7 +1,5 @@
----
-layout: lesson
-title:  Preface
----
+# Preface
+
 *(Note: We welcome feedback on this book! If you find an error, want clarification on a particular issue, or find deep problems with particular explanations, drop us a line on our [GitHub issues page](/textanalysiscoursebook/book/https:/github.com/bmw9t/introduction-to-text-analysis/issues). We'll be grateful and list you in our [acknowledgements](/textanalysiscoursebook/book/acknowledgements.md
 )!)*
 
