@@ -4,14 +4,14 @@
 title:               Introduction to Text Analysis
 tagline:             'A Coursebook'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://elotroalex.github.io'
-baseurl:             ''
+url:                 'http://bmw9t.github.io'
+baseurl:             'textanalysiscoursebook'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Brandon Walsh
+  url:               https://bmw9t.github.io/textanalysiscoursebook/
+  email:             walsh.brandon.michael@gmail.com
 
 # Permalinks
 

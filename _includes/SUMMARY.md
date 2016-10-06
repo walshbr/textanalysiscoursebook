@@ -1,5 +1,3 @@
-# Summary
-
 * [Preface](/book/README)
 * [Introduction](/book/introduction)
     * [For Instructors](/book/introduction/for-instructors)
