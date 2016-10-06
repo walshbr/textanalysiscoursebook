@@ -1,9 +1,11 @@
 # Summary
 
 * [Preface](/textanalysiscoursebook/book/README)
+* [Acknowledgements](/textanalysiscoursebook/book/acknowledgements)
 * [Introduction](/textanalysiscoursebook/book/introduction)
     * [For Instructors](/textanalysiscoursebook/book/introduction/for-instructors)
     * [For Students](/textanalysiscoursebook/book/introduction/for-students)
+    * [Schedule](/textanalysiscoursebook/book/introduction/schedule)
 * [Issues in Digital Text Analysis](/textanalysiscoursebook/book/issues-in-digital-text-analysis)
     * [Why Read with a Computer?](/textanalysiscoursebook/book/issues/why-read-with-a-computer)
     * [Google NGram Viewer](/textanalysiscoursebook/book/issues/google-ngram)
