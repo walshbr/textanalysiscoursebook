@@ -37,13 +37,13 @@ Author. Title. Book. Editor. Location: Publisher, Data. Format. Series.
 
 The formula will vary slightly depending on the type of item you are citing, but, if we have a full metadata listing for each text, we could imagine a tool that would fill in the metadata and format it to our recipe. We could imagine software that would spit out a bibliography for us.
 
-If you have ever used something like [easybib.com](/textanalysiscoursebook/book/https:/www.easybib.com) to produce a bibliography, you have done exactly the process that we are describing. You fill in the metadata you want, and easybib spits out a citation.
+If you have ever used something like [easybib.com](https://www.easybib.com) to produce a bibliography, you have done exactly the process that we are describing. You fill in the metadata you want, and easybib spits out a citation.
 
 You might have felt like you were cheating when using a tool like this as a shortcut for your citations, but we're here to let you in on a secret. Your instructors rely on similar tools. If you think putting together a bibliography for your 5 page essay is irritating, imagine doing one for a 300 page book manuscript. And at the end of the process, your publisher decides that you have to use Chicago style \(footnotes\) rather than MLA \(in-text citations\). Do you want to convert them all by hand? Neither do we. 
 
-To deal with citation situations like this, the academic community has developed its own tool: [Zotero](/textanalysiscoursebook/book/https:/www.zotero.org). Zotero can do everything we've described so far in a snap, but it can also do so much more. Spending a few minutes learning it will save you dozens if not hundreds of hours in your writing life. Seriously.
+To deal with citation situations like this, the academic community has developed its own tool: [Zotero](https://www.zotero.org). Zotero can do everything we've described so far in a snap, but it can also do so much more. Spending a few minutes learning it will save you dozens if not hundreds of hours in your writing life. Seriously.
 
-First visit the [Zotero download page](/textanalysiscoursebook/book/https:/www.zotero.org/download). You can run Zotero out of Firefox, which allows you to capture and manage your citations without ever leaving the browser. But we like to separate the process of collecting citations from managing and using them. Download "Zotero Standalone" from the right window pane:
+First visit the [Zotero download page](https://www.zotero.org/download). You can run Zotero out of Firefox, which allows you to capture and manage your citations without ever leaving the browser. But we like to separate the process of collecting citations from managing and using them. Download "Zotero Standalone" from the right window pane:
 
 ![zotero download](/textanalysiscoursebook/assets/data-cleaning/zotero-download.jpg)
 
@@ -57,7 +57,7 @@ Your Zotero installation and library will look different from Brandon's, because
 
 <img src="/assets/data-cleaning/zotero-add-citation.jpg" alt="adding a book citation" class="img-right medium">
 
-First, let's enter information manually. Let's pull out our copy of Rosalind Crone's _Violent Victorians_ \(you can find the relevant metadata on [Amazon](/textanalysiscoursebook/book/https:/www.amazon.com/dp/071908685X/?tag=mh0b-20&hvadid=4965340066&hvqmt=p&hvbmt=bp&hvdev=c&ref=pd_sl_6usflqlo9o_p) if you don't have your own copy. By clicking on the plus sign at the top, you can select the type of object you are adding to your collection. This is a book, so let's select that.
+First, let's enter information manually. Let's pull out our copy of Rosalind Crone's _Violent Victorians_ \(you can find the relevant metadata on [Amazon](https://www.amazon.com/dp/071908685X/?tag=mh0b-20&hvadid=4965340066&hvqmt=p&hvbmt=bp&hvdev=c&ref=pd_sl_6usflqlo9o_p) if you don't have your own copy. By clicking on the plus sign at the top, you can select the type of object you are adding to your collection. This is a book, so let's select that.
 
 Doing so will shift your Zotero pane so that you can enter the metadata for Crone's book on the right. Go ahead and do that. Notice how you can have some categories be empty - Zotero is not picky. It has all those extra sections so that it can fit a variety of different use cases, but not every object will use every metadata category. When you're done, you should have something like this. 
 
@@ -71,7 +71,7 @@ Try entering this one: 0520221680. Zotero should automatically go out and grab t
 
 ![input by isbn](/textanalysiscoursebook/assets/data-cleaning/zotero-input-by-isbn.jpg)
 
-Magic! But wait - there's more. Visit the Amazon webpage for _[Sara Baartman and the Hottentot Venus: A Ghost Story and a Biography](/textanalysiscoursebook/book/https:/www.amazon.com/Sara-Baartman-Hottentot-Venus-Biography/dp/0691147965)_. If you pay careful attention to your toolbars at the top of the webpage, you may have noticed a new one for Zotero \(fourth from the left in this image from Brandon's computer\).
+Magic! But wait - there's more. Visit the Amazon webpage for _[Sara Baartman and the Hottentot Venus: A Ghost Story and a Biography](https://www.amazon.com/Sara-Baartman-Hottentot-Venus-Biography/dp/0691147965)_. If you pay careful attention to your toolbars at the top of the webpage, you may have noticed a new one for Zotero \(fourth from the left in this image from Brandon's computer\).
 
 ![zotero download from chrome](/textanalysiscoursebook/assets/data-cleaning/zotero-download-from-chrome.jpg)
 
@@ -88,8 +88,8 @@ That being said, you need to remember the principle of garbage in, garbage out. 
 Now that we have our metadata, the fun begins. If you use Microsoft Word, strap in and buckle up. Go to the Zotero menu and select Preferences. From the 'Cite' menu, Install the Microsoft Word Add-in. Doing so will add a special 'Zotero' menu to every Microsoft Word document that you open. Now let's open a new Microsoft Word document and check out the new menu.
 
 [Note: The following screenshots and narrative were written for Microsoft Word 2011, and later versions will vary slightly. Microsoft Word 2016, for example, changes the Zotero integration. In this later version you will be looking for a menu called "add-in's," and the keyboard shortcuts below will not work by default. The Zotero forums provide [a tutorial](/textanalysiscoursebook/book/
-https:/www.zotero.org/support/word_processor_plugin_shortcuts) for adding keyboard shortcuts manually. There can also find a number of [screencasts](/textanalysiscoursebook/book/
-https:/www.zotero.org/support/word_processor_plugin_shortcuts) to walk you through integrating with other Word versions.]
+https://www.zotero.org/support/word_processor_plugin_shortcuts) for adding keyboard shortcuts manually. There can also find a number of [screencasts](/textanalysiscoursebook/book/
+https://www.zotero.org/support/word_processor_plugin_shortcuts) to walk you through integrating with other Word versions.]
 
 ![zotero menu in word](/textanalysiscoursebook/assets/data-cleaning/zotero-menu-in-word.jpg)
 
@@ -131,5 +131,5 @@ Zotero is much more that just a way to produce citations and bibliographies. It 
 Zotero isn't perfect. Sometimes, an error might occur, and you might have to wrestle with your text a bit. But the payoff is worth it. Save your work often. Back things up. And use Zotero without fear.
 
 ## Further Resources
-* Jason Puckett has a more advanced breakdown of Zotero in *[Zotero: A Guide for Librarians, Researchers and Educators](/textanalysiscoursebook/book/https:/www.amazon.com/Zotero-Guide-Librarians-Researchers-Educators/dp/0838985890/ref=sr_1_1?ie=UTF8&qid=1473948483&sr=8-1&keywords=zotero)*
+* Jason Puckett has a more advanced breakdown of Zotero in *[Zotero: A Guide for Librarians, Researchers and Educators](https://www.amazon.com/Zotero-Guide-Librarians-Researchers-Educators/dp/0838985890/ref=sr_1_1?ie=UTF8&qid=1473948483&sr=8-1&keywords=zotero)*
 

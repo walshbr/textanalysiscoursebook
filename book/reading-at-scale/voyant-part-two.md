@@ -2,7 +2,7 @@
 layout: lesson
 title:  Voyant Part Two
 ---
-Let's look at [Voyant](/textanalysiscoursebook/book/https:/voyant-tools.org) in a bit more detail. Feel free to [download the Sweeney Todd dataset](/textanalysiscoursebook/assets/the-string-of-pearls-full.txt) and use it to produce the same results and follow along, or upload your own texts using the window provided. Look back at the word cloud that Voyant gave us for _The String of Pearls_:
+Let's look at [Voyant](https://voyant-tools.org) in a bit more detail. Feel free to [download the Sweeney Todd dataset](/textanalysiscoursebook/assets/the-string-of-pearls-full.txt) and use it to produce the same results and follow along, or upload your own texts using the window provided. Look back at the word cloud that Voyant gave us for _The String of Pearls_:
 
 ![voyant default wordcloud of string of pearls](/textanalysiscoursebook/assets/reading-at-scale/voyant-word-cloud-default.jpg)
 
@@ -18,7 +18,7 @@ In this list of the first ten uses of 'said', two of them are closely joined wit
 * What is he talking about? 
 * Who is he talking to?
 
-As we move away from particular words towards clusters of phrases in contexts, we also need a new vocabulary to represent those relationships. You may have heard of **n-grams** from [the Google Ngram Viewer](/textanalysiscoursebook/book/https:/books.google.com/ngrams), which allows users to search large corpora for specified words or phrases. An n-gram is a sequence of words that occurs next to each other of a particular length: the 'n' becomes a stand-in for the specified length of phrase. So take the following sentence:
+As we move away from particular words towards clusters of phrases in contexts, we also need a new vocabulary to represent those relationships. You may have heard of **n-grams** from [the Google Ngram Viewer](https://books.google.com/ngrams), which allows users to search large corpora for specified words or phrases. An n-gram is a sequence of words that occurs next to each other of a particular length: the 'n' becomes a stand-in for the specified length of phrase. So take the following sentence:
 
 "This is a sentence to illustrate ngrams."
 

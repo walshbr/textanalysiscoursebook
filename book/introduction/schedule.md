@@ -20,14 +20,14 @@ Through this course, students will be introduced to text analysis and data minin
 
 * Understanding Scandal
   * Ari Adut, _On Scandal_, Introduction and Chapter 1
-  * Patrick Leary, "[Googling the Victorians](/textanalysiscoursebook/book/http:/www.victorianresearch.org/googling.pdf)"
+  * Patrick Leary, "[Googling the Victorians](http://www.victorianresearch.org/googling.pdf)"
   * [Introduction](/textanalysiscoursebook/book/introduction.md) and [Issues in Digital Text Analysis](/textanalysiscoursebook/book/issues-in-digital-text-analysis.md) in this book
 
 ### Week 2
 
 * Scandal and Monarchy, Part I
   * Sarah Maza, “The Diamond Necklace Affair Revisited: The Case of the Missing Queen” 
-  * [Historical Essays on the Life of Marie–Antoinette of Austria](/textanalysiscoursebook/book/http:/chnm.gmu.edu/revolution/d/262/)
+  * [Historical Essays on the Life of Marie–Antoinette of Austria](http://chnm.gmu.edu/revolution/d/262/)
 
 
 * Scandal and Monarchy, Part II 
@@ -41,7 +41,7 @@ Through this course, students will be introduced to text analysis and data minin
 
 * Scandal and Sexuality, Continued 
   * Ari Adut, _On Scandal_, Chapter 2 
-  * Edward Carson’s [Opening Speech for the Defense of Lord Queensberry](/textanalysiscoursebook/book/http:/law2.umkc.edu/faculty/projects/ftrials/wilde/defenopening.htm)
+  * Edward Carson’s [Opening Speech for the Defense of Lord Queensberry](http://law2.umkc.edu/faculty/projects/ftrials/wilde/defenopening.htm)
 
 
 * The Spectacle of Punishment 
@@ -71,20 +71,20 @@ Through this course, students will be introduced to text analysis and data minin
 
 * The Rise of Detective Fiction 
   * Michael Saler, “’Clap if You Believe in Sherlock Holmes’: Mass Culture and the Re-Enchantment of Modernity, c. 1890-1940" 
-  * Arthur Conan Doyle, "[A Scandal in Bohemia](/textanalysiscoursebook/book/http:/www.gutenberg.org/files/1661/1661-h/1661-h.htm#)"
+  * Arthur Conan Doyle, "[A Scandal in Bohemia](http://www.gutenberg.org/files/1661/1661-h/1661-h.htm#)"
   * [Data Cleaning](/textanalysiscoursebook/book/data-cleaning.md) in this book
 
 ### Week 6
 
 * Violence and Entertainment, Part I 
   * Rosalind Crone, _Violent Victorians_, Chapters 1 and 3 
-  * [_The String of Pearls_, Chapters 36-39](/textanalysiscoursebook/book/http:/www.victorianlondon.org/mysteries/sweeney_todd-00.htm) 
+  * [_The String of Pearls_, Chapters 36-39](http://www.victorianlondon.org/mysteries/sweeney_todd-00.htm) 
   * Franco Moretti, “Graphs” from _Graphs, Maps, Trees_
 
 
 * Violence and Entertainment, Part II 
   * Rosalind Crone, _Violent Victorians_, Chapter 6 
-  * Find an article on a 19th century murder from the _Times_ from the [_Dictionary of Victorian London_](/textanalysiscoursebook/book/http:/www.victorianlondon.org/index-2012.htm) 
+  * Find an article on a 19th century murder from the _Times_ from the [_Dictionary of Victorian London_](http://www.victorianlondon.org/index-2012.htm) 
   * [Cyborg Readers](/textanalysiscoursebook/book/cyborg-readers.md) in this book
 
 
@@ -109,7 +109,7 @@ Through this course, students will be introduced to text analysis and data minin
 
 * Sex and Death in the City 
   * Judith Walkowitz, “Jack the Ripper and the Myth of Male Violence” 
-  * Find two articles on Jack the Ripper from [Casebook: Jack the Ripper](/textanalysiscoursebook/book/http:/www.casebook.org/press_reports/) 
+  * Find two articles on Jack the Ripper from [Casebook: Jack the Ripper](http://www.casebook.org/press_reports/) 
   * [Topic Modeling](/textanalysiscoursebook/book/topic-modeling.md) in this book
 
 
@@ -119,14 +119,14 @@ Through this course, students will be introduced to text analysis and data minin
 
 * The Spectacle of Race, Part I 
   * Clifton Crais and Pamela Scully, _Sara Baartman and the Hottentot Venus_, Introduction, Chapters 3 and 4 
-  * Tressie McMillan Cottom, "[When Your (Brown) Body is a (White) Wonderland](/textanalysiscoursebook/book/http:/tressiemc.com/2013/08/27/when-your-brown-body-is-a-white-wonderland/)"
+  * Tressie McMillan Cottom, "[When Your (Brown) Body is a (White) Wonderland](http://tressiemc.com/2013/08/27/when-your-brown-body-is-a-white-wonderland/)"
 
 
 * The Spectacle of Race, Part II 
   * Clifton Crais and Pamela Scully, _Sara Baartman and the Hottentot Venus_, Chapter 6 
-  * Cleuci de Oliveira, "[Saartjie Baartman: The Original Booty Queen](/textanalysiscoursebook/book/http:/jezebel.com/saartje-baartman-the-original-booty-queen-1658569879)" 
-  * Pia Glenn, "[You Can’t Ignore the Degradation of Saartjie Baartman to Connect Her to Kim Kardashian. You Just Can’t](/textanalysiscoursebook/book/http:/www.xojane.com/issues/saartjie-baartman-kim-kardashian)" 
-  * Danielle Bowler, "[Saartjie Baartman is not ‘The Original Booty Queen’](/textanalysiscoursebook/book/http:/ewn.co.za/2014/11/17/OPINION-Danielle-Bowler-Saartjie-Baartman-is-not-the-original-booty-queen)" 
+  * Cleuci de Oliveira, "[Saartjie Baartman: The Original Booty Queen](http://jezebel.com/saartje-baartman-the-original-booty-queen-1658569879)" 
+  * Pia Glenn, "[You Can’t Ignore the Degradation of Saartjie Baartman to Connect Her to Kim Kardashian. You Just Can’t](http://www.xojane.com/issues/saartjie-baartman-kim-kardashian)" 
+  * Danielle Bowler, "[Saartjie Baartman is not ‘The Original Booty Queen’](http://ewn.co.za/2014/11/17/OPINION-Danielle-Bowler-Saartjie-Baartman-is-not-the-original-booty-queen)" 
   * [Classifiers](/textanalysiscoursebook/book/classifiers.md) in this book
 
 ### Week 10
@@ -137,9 +137,9 @@ Through this course, students will be introduced to text analysis and data minin
 
 
 * Scandals and Contemporary Media 
-  * Anita Sarkeesian Interview: "'[The word “troll” feels too childish. This is abuse]"'(http:/www.theguardian.com/technology/2015/aug/29/anita-sarkeesian-gamergate-interview-jessica-valenti) 
-  * [NSA Files Decoded](/textanalysiscoursebook/book/http:/www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded) 
-  * Adam Kirsch, "[Technology is Taking Over English Departments: The False Promise of the Digital Humanities](/textanalysiscoursebook/book/https:/newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch)"
+  * Anita Sarkeesian Interview: "'[The word “troll” feels too childish. This is abuse]"'(http://www.theguardian.com/technology/2015/aug/29/anita-sarkeesian-gamergate-interview-jessica-valenti) 
+  * [NSA Files Decoded](http://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded) 
+  * Adam Kirsch, "[Technology is Taking Over English Departments: The False Promise of the Digital Humanities](https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch)"
 
 
 * **Draft of Final Project Due**
@@ -149,8 +149,8 @@ Through this course, students will be introduced to text analysis and data minin
 * No class, meetings with professors about final projects
 
 * Crime, Scandal and Politics in the Present Day 
-  * Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, "[Machine Bias: There’s software used across the country to predict future criminals. And it’s biased against blacks](/textanalysiscoursebook/book/https:/www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)" 
-  * Matt Bai, "[How Gary Hart’s Downfall Forever Changed American Politics](/textanalysiscoursebook/book/http:/www.nytimes.com/2014/09/21/magazine/how-gary-harts-downfall-forever-changed-american-politics.html)" 
+  * Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, "[Machine Bias: There’s software used across the country to predict future criminals. And it’s biased against blacks](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)" 
+  * Matt Bai, "[How Gary Hart’s Downfall Forever Changed American Politics](http://www.nytimes.com/2014/09/21/magazine/how-gary-harts-downfall-forever-changed-american-politics.html)" 
   * [Conclusion](/textanalysiscoursebook/book/conclusion.md) in this book
 
 

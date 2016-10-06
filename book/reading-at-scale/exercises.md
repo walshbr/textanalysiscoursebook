@@ -4,11 +4,11 @@ title:  Exercises
 ---
 Here are three projects that take distant reading approaches of various kinds:
 
-1. [Quantifying Kissinger](/textanalysiscoursebook/book/http:/www.quantifyingkissinger.com/)
+1. [Quantifying Kissinger](http://www.quantifyingkissinger.com/)
 
-2. [Viral Texts](/textanalysiscoursebook/book/http:/viraltexts.org/)
+2. [Viral Texts](http://viraltexts.org/)
 
-3. [Syuzhet Part One](/textanalysiscoursebook/book/http:/www.matthewjockers.net/2015/02/02/syuzhet/), [Syuzhet Part Two](/textanalysiscoursebook/book/http:/www.matthewjockers.net/2015/02/25/the-rest-of-the-story/)
+3. [Syuzhet Part One](http://www.matthewjockers.net/2015/02/02/syuzhet/), [Syuzhet Part Two](http://www.matthewjockers.net/2015/02/25/the-rest-of-the-story/)
 
 
 Select one of the projects and familiarize yourself with it. Answer the following questions:

@@ -17,7 +17,7 @@ That the prosperity of a nation does, very materially, depend on the preservatio
 * Then read the passage two more times and repeat the same exercise, writing down what goes through your head in detail.
 
 
-Then go to [our class Prism](/textanalysiscoursebook/book/http:/prism.scholarslab.org/prisms/2750132e-7b70-11e6-88c8-005056b3784e/highlight?locale=en). Highlight the Prism according to the rules of the game and then respond to the following questions:
+Then go to [our class Prism](http://prism.scholarslab.org/prisms/2750132e-7b70-11e6-88c8-005056b3784e/highlight?locale=en). Highlight the Prism according to the rules of the game and then respond to the following questions:
 
 * How did you read differently when using Prism? Can you imagine other variations of the tool? How might things with five interpretive categories, for example?
 

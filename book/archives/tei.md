@@ -98,11 +98,11 @@ One last thing. Remember our rhyme scheme and line numbers? We can encode those 
   </lg>
  ```
 
-We have added attributes to denote the line numbers for each line as well as the rhyme scheme, and then a new <rhyme> tag for each line denotes what word the rhyme is associated with. All of the tags used here can be found in the tutorial on poetry on the [TEI by Example](/textanalysiscoursebook/book/http:/teibyexample.org/modules/TBED04v00.htm) page.
+We have added attributes to denote the line numbers for each line as well as the rhyme scheme, and then a new <rhyme> tag for each line denotes what word the rhyme is associated with. All of the tags used here can be found in the tutorial on poetry on the [TEI by Example](http://teibyexample.org/modules/TBED04v00.htm) page.
 
 Once a text has been **encoded** in this way, it can be represented more easily in a digital form. This work may not necessarily actually make it *look* any different. But it does allow you to do new and exciting things to your work. TEI encoding can make it possible to provide nuanced digital editions of a text. We could actually say to a program, pull out all the rhyming words in a poem. Or make them appear differently on a webpage. Or change them all to "TEI is the best."
 
-Let's look at an example of something that's got a lot of encoding already in it. Here is the TEI for [this entry](/textanalysiscoursebook/book/http:/www.oldbaileyonline.org/browse.jsp?id=t18881119-50&div=t18881119-50&terms=ripper#highlight) on a robbery case that mentions Jack the Ripper from the [Old Bailey Online](/textanalysiscoursebook/book/http:/www.oldbaileyonlineorg). You might not recognize a lot of the tags \(there are _loads_ of TEI tags\), but the general arrangement of them should look familiar (full TEI [here](/textanalysiscoursebook/book/https:/www.oldbaileyonline.org/browse.jsp?foo=bar&path=sessionsPapers/18881119.xml&div=t18881119-50&xml=yes)):
+Let's look at an example of something that's got a lot of encoding already in it. Here is the TEI for [this entry](http://www.oldbaileyonline.org/browse.jsp?id=t18881119-50&div=t18881119-50&terms=ripper#highlight) on a robbery case that mentions Jack the Ripper from the [Old Bailey Online](http://www.oldbaileyonlineorg). You might not recognize a lot of the tags \(there are _loads_ of TEI tags\), but the general arrangement of them should look familiar (full TEI [here](https://www.oldbaileyonline.org/browse.jsp?foo=bar&path=sessionsPapers/18881119.xml&div=t18881119-50&xml=yes)):
 
 
 
@@ -110,11 +110,11 @@ Let's look at an example of something that's got a lot of encoding already in it
 
 
 
-Focus on what you do know: the tagging syntax should ring some bells. If you want to look up any of the tags, you can always check out the [TEI guidelines](/textanalysiscoursebook/book/http:/www.tei-c.org/index.xml). A lot of working with technology consists of not panicking when you see something unfamiliar and then looking up what you don't know. But we digress.
+Focus on what you do know: the tagging syntax should ring some bells. If you want to look up any of the tags, you can always check out the [TEI guidelines](http://www.tei-c.org/index.xml). A lot of working with technology consists of not panicking when you see something unfamiliar and then looking up what you don't know. But we digress.
 
 
 
-When you look at the [public-facing version of the entry](/textanalysiscoursebook/book/https:/www.oldbaileyonline.org/browse.jsp?id=t18881119-50&div=t18881119-50&terms=ripper#highlight) on the Old Bailey Online, almost all the tags disappear:
+When you look at the [public-facing version of the entry](https://www.oldbaileyonline.org/browse.jsp?id=t18881119-50&div=t18881119-50&terms=ripper#highlight) on the Old Bailey Online, almost all the tags disappear:
 
 
 
@@ -130,5 +130,5 @@ Encoding is meant to convey abstract humanities concepts to the machine so that 
 
 ## Further Resources
 
-* Jacob Heil is great on the intellectual reasons for encoding in "[Why We TEI](/textanalysiscoursebook/book/http:/digitalscholarship.ohio5.org/2016/02/why-we-tei-2/)."
-* Ryan Cordell in "[On Ignoring Encoding](/textanalysiscoursebook/book/http:/ryancordell.org/research/dh/on-ignoring-encoding/)" gives a great defense of textual encoding as a fundamental part of digital humanities.
+* Jacob Heil is great on the intellectual reasons for encoding in "[Why We TEI](http://digitalscholarship.ohio5.org/2016/02/why-we-tei-2/)."
+* Ryan Cordell in "[On Ignoring Encoding](http://ryancordell.org/research/dh/on-ignoring-encoding/)" gives a great defense of textual encoding as a fundamental part of digital humanities.

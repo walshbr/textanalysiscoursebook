@@ -88,11 +88,11 @@ def convert_file(fn, header=True):
 
 
 def convert_link(line):
-    line = re.sub(r'\]\((?!\/)', '](/', line)
-    line = re.sub(r'\]\((?!\/textanalysis|\/assets)',
-                  '](/textanalysiscoursebook/book/', line)
+    line = re.sub(r'\]\((?!\/|http)', '](/', line)
+    line = re.sub(r'\]\((?!\/textanalysis|\/assets|http)',
+                  '](/textanalysiscoursebook/book', line)
     line = re.sub(r'\]\(/assets', '](/textanalysiscoursebook/assets', line)
-    line = re.sub(r'\/\/', '/', line)
+    # line = re.sub(r'\/\/', '/', line)
     line = re.sub(r'\.md\)$', ')', line)
     return line
 

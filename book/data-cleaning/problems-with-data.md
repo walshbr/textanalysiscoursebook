@@ -10,7 +10,7 @@ The basic principle to remember is **garbage in, garbage out (or GIGO)**: you wo
 
 <img src="/assets/data-cleaning/holmes.jpg" alt="sherlock holmes article clipping" class="img-right">
 
-Take this image, drawn from a 1922 printing of *[The Duluth Herald](/textanalysiscoursebook/book/https:/archive.org/details/duluthherald10311922unse)*, of a newspaper ad for the American film version of Sherlock Holmes.
+Take this image, drawn from a 1922 printing of *[The Duluth Herald](https://archive.org/details/duluthherald10311922unse)*, of a newspaper ad for the American film version of Sherlock Holmes.
 
 By default, the computer has no idea that there is text inside of this image. For a computer, an image is just an image, and you can only do image-y things to it. The computer could rotate it, crop it, zoom in, or paint over parts of it, but your machine cannot read the text there - unless you tell it how to do so. In fact, the computer doesn't even really know that there *is* text there. As far as it's concerned, an abstract painting and an image like this contain the same amount of textual information. The computer requires a little extra help to pull out the text information from the image.
 
@@ -25,7 +25,7 @@ Running this image through tesseract, a common free tool for OCR'ing text, we ge
 
 The material here is still recognizable as being part of the same text, though there are obvious problems with the reproduction. At first blush, you might think, "This should be easy! I learned to read a long time ago. I can even read things written in cursive! Why does the computer have such a hard time with this?" This is one of those instances where what is no trouble for you is much harder for a computer. Humans are great at pattern recognition, which is essentially what OCR is. Computers, not so much.
 
-OCR'ing text is actually a pretty complicated problem for computers. [WhatFontis.com](/textanalysiscoursebook/book/http:/www.whatfontis.com) lists over 342,000 fonts, and this count only appears to include Western fonts. A single word will look slightly different in each font and at each size. And that doesn't even begin to account for hand-written text or text that has been partially damaged: even a slight imperfection in a letter can complicate the scanning process. The process is complicated and takes a lot of work: even the most expensive OCR software is prone to errors. If you see clean text transcriptions of an image online, odds are high that a human cleaned up the OCR to make it readable. 
+OCR'ing text is actually a pretty complicated problem for computers. [WhatFontis.com](http://www.whatfontis.com) lists over 342,000 fonts, and this count only appears to include Western fonts. A single word will look slightly different in each font and at each size. And that doesn't even begin to account for hand-written text or text that has been partially damaged: even a slight imperfection in a letter can complicate the scanning process. The process is complicated and takes a lot of work: even the most expensive OCR software is prone to errors. If you see clean text transcriptions of an image online, odds are high that a human cleaned up the OCR to make it readable. 
 
 ## Data Cleaning
 
@@ -35,7 +35,7 @@ We're going to count to ten!
 
 1,2,3,4,5,6,7,8,10
 
-You probably meant to have a 9 in there, and a human reading it would most likely know that there was a mistake. But the computer will have no idea that you accidentally left out a number. You would have to specifically tell it to account for such errors. This simple fact about computational logic becomes a big problem in the humanities, because humanities data is _messy_. To see what we mean, go check out the Wikipedia section on Sir Arthur Conan Doyle's [name](/textanalysiscoursebook/book/https:/en.wikipedia.org/wiki/Arthur_Conan_Doyle#Name). We will wait. Here is a picture of a cat in the meantime. Imagine it's a cat high fiving you when you clean up some data.
+You probably meant to have a 9 in there, and a human reading it would most likely know that there was a mistake. But the computer will have no idea that you accidentally left out a number. You would have to specifically tell it to account for such errors. This simple fact about computational logic becomes a big problem in the humanities, because humanities data is _messy_. To see what we mean, go check out the Wikipedia section on Sir Arthur Conan Doyle's [name](https://en.wikipedia.org/wiki/Arthur_Conan_Doyle#Name). We will wait. Here is a picture of a cat in the meantime. Imagine it's a cat high fiving you when you clean up some data.
 
 <img src="/assets/data-cleaning/data-cat-high-five.jpg" alt="high fiving cat" class="img-right"/>
 
@@ -131,11 +131,11 @@ We have two metadata categories here: last\_name, and first\_name. Each are sepa
 
 Imagine you have started to put together your own table of author names and you notice that your neighbor is putting together one of her own. You want to be able to compare notes and, even more, you want to combine lists. It should be obvious that you will have real problems if you organize things as "first\_name last\_name" and she organizes things as "last\_name, first\_name". You would need to do a lot of extra work to merge your two lists. It would have been easier if you were working with an accepted standard for how author names should be listed.
 
-Such metadata standards exist, and a lot of work goes into maintaining them \(check out [Dublin Core](/textanalysiscoursebook/book/dublincore.org/specifications) if you are interested in learning more\). These standards ensure that anyone producing a new dataset creates work that could easily translate and communicate with other systems. They ensure that your local library's data could eventually be drawn into the [Digial Public Library of America](/textanalysiscoursebook/book/https:/dp.la) and made available on a large scale. The process might seem easy with this basic author name example, but imagine trying to coordinate such metadata standards for all people working on all types of cultural objects, all over the world. The work never ends.
+Such metadata standards exist, and a lot of work goes into maintaining them \(check out [Dublin Core](/textanalysiscoursebook/book/dublincore.org/specifications) if you are interested in learning more\). These standards ensure that anyone producing a new dataset creates work that could easily translate and communicate with other systems. They ensure that your local library's data could eventually be drawn into the [Digial Public Library of America](https://dp.la) and made available on a large scale. The process might seem easy with this basic author name example, but imagine trying to coordinate such metadata standards for all people working on all types of cultural objects, all over the world. The work never ends.
 
 You can fall down a deep pit looking at all the different metadata standards and their uses. For now, we just want you to be familiar with the concepts.
 
 ## Further Resources
 
-* Chris Woolford has a more detailed explanation of how OCR works at [explainthatstuff.com](/textanalysiscoursebook/book/http:/www.explainthatstuff.com/how-ocr-works.html).
+* Chris Woolford has a more detailed explanation of how OCR works at [explainthatstuff.com](http://www.explainthatstuff.com/how-ocr-works.html).
 

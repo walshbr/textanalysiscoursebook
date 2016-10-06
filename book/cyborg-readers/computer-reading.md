@@ -18,7 +18,7 @@ Taken alone, the sentence doesn't tell us much. Its meaning depends a lot on the
 
 > "What movie did you see?"
 
-In the first case, we might be responding with the number of movies that we had seen. It was a slow weekend, and we spent it at the local movie theatre hopping from film to film. It was a great time! In the second situation, we might be responding with the title of a specific film, [*8<sup>1/2</sup>* by Italian director Frederico Fellini](/textanalysiscoursebook/book/https:/en.wikipedia.org/wiki/8%C2%BD). So one answer is a number, and one answer is a name. Since humans are good at grasping context, we would easily be able to distinguish between the two. In most situations, we would just adjust our understanding internally before moving on with the conversation. 
+In the first case, we might be responding with the number of movies that we had seen. It was a slow weekend, and we spent it at the local movie theatre hopping from film to film. It was a great time! In the second situation, we might be responding with the title of a specific film, [*8<sup>1/2</sup>* by Italian director Frederico Fellini](https://en.wikipedia.org/wiki/8%C2%BD). So one answer is a number, and one answer is a name. Since humans are good at grasping context, we would easily be able to distinguish between the two. In most situations, we would just adjust our understanding internally before moving on with the conversation. 
 
 Computers cannot make inferences like these, and this fact has serious implications: numbers and words have significantly different uses. Here are two further extensions of the conversation:
 

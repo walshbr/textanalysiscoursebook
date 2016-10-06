@@ -2,17 +2,17 @@
 layout: lesson
 title:  Adapting This Book for Another Course
 ---
-***The GitBook platform that we use for publishing is changing rapidly. While you can fork our GitHub Repository and edit your own versions of the files, the GitBook platform as of this writing is too unstable for us to develop reliable documentation about how to publish your own version of the text. We will update this page when the issue has been resolved. Until then, the instructions in the Publishing section below should be considered out of date and unstable. If you are able to import your own copy of the text on GitHub by mimicking the instructions below, please make an issue on our [GitHub page](/textanalysiscoursebook/book/https:/github.com/bmw9t/introduction-to-text-analysis/issues) to let us know. ***
+***The GitBook platform that we use for publishing is changing rapidly. While you can fork our GitHub Repository and edit your own versions of the files, the GitBook platform as of this writing is too unstable for us to develop reliable documentation about how to publish your own version of the text. We will update this page when the issue has been resolved. Until then, the instructions in the Publishing section below should be considered out of date and unstable. If you are able to import your own copy of the text on GitHub by mimicking the instructions below, please make an issue on our [GitHub page](https://github.com/bmw9t/introduction-to-text-analysis/issues) to let us know. ***
 
 We encourage others to use this book for their own courses and to change it to meet the needs of their own contexts. The publishing platform here helps to facilitate this process. We especially imagine people reworking the exercises in each chapter to reflect their own disciplinary content. With a little effort you can rework the book for your own purposes and publish it to GitBooks for your students to use.
 
 **Note:**
 
-* **Copying the book will only get you a particular version of the book at a particular point in time. By default, any changes we make to the book after you copy it will not be reflected in your version of the book. [Syncing your version](/textanalysiscoursebook/book/https:/help.github.com/articles/syncing-a-fork/) of the book with ours will likely conflict with any changes you have made, so we would only try that with great care.** 
+* **Copying the book will only get you a particular version of the book at a particular point in time. By default, any changes we make to the book after you copy it will not be reflected in your version of the book. [Syncing your version](https://help.github.com/articles/syncing-a-fork/) of the book with ours will likely conflict with any changes you have made, so we would only try that with great care.** 
 
 ## Getting Your Own Copy
 
-The contents of this book are hosted in [a repository on GitHub](/textanalysiscoursebook/book/https:/github.com/bmw9t/introduction-to-text-analysis) and rendered to the internet via [GitBooks](/textanalysiscoursebook/book/http:/gitbook.com). When we make changes to the file structure hosted on GitHub, the changes populate out to our GitBooks account, which renders the various files into the web version of the book. To make your own remixable copy of the book, you will need to make a copy our GitHub repository and sync your copy with a GitBook of your own. Things you'll need to begin:
+The contents of this book are hosted in [a repository on GitHub](https://github.com/bmw9t/introduction-to-text-analysis) and rendered to the internet via [GitBooks](http://gitbook.com). When we make changes to the file structure hosted on GitHub, the changes populate out to our GitBooks account, which renders the various files into the web version of the book. To make your own remixable copy of the book, you will need to make a copy our GitHub repository and sync your copy with a GitBook of your own. Things you'll need to begin:
 
 - GitBooks Account
 - GitHub Account
@@ -52,11 +52,11 @@ You now have a working copy of the book hosted on GitHub and rendered in GitBook
 
 ### Markdown
 
-From here you just need to know a few more things to edit your new and ready-to-remix textbook. The book is written as a series of files in **markdown**, a form of markup that can easily be converted into HTML. GitBooks provides a [great tutorial on markdown](/textanalysiscoursebook/book/https:/gitbookio.gitbooks.io/markdown/content/) that help get you started. 
+From here you just need to know a few more things to edit your new and ready-to-remix textbook. The book is written as a series of files in **markdown**, a form of markup that can easily be converted into HTML. GitBooks provides a [great tutorial on markdown](https://gitbookio.gitbooks.io/markdown/content/) that help get you started. 
 
 ### Editing with GitBooks Editor
 
-If markdown feels too complicated, GitBooks also provides a handy [desktop editor](/textanalysiscoursebook/book/https:/www.gitbook.com/editor/osx) that can make the process just about as intuitive as writing in Microsoft Word. You can type in markdown, but the editor will also convert certain commands to markdown for you:
+If markdown feels too complicated, GitBooks also provides a handy [desktop editor](https://www.gitbook.com/editor/osx) that can make the process just about as intuitive as writing in Microsoft Word. You can type in markdown, but the editor will also convert certain commands to markdown for you:
 
 \*\*bolded text\*\* will render as **bolded text**.
 
@@ -68,7 +68,7 @@ The interface provides a preview of what your text will look like to the right o
 
 ![gitbooks cloning locally](/textanalysiscoursebook/assets/conclusion/gitbooks-clone.jpg)
 
-The computer will **clone**, or copy, the book to your computer. From there, you can follow the instructions in the [editor's documentation](/textanalysiscoursebook/book/https:/help.gitbook.com/). The only significant difference from MS Word is that, after saving your work, you will need to click the sync button to upload your content to GitHub.
+The computer will **clone**, or copy, the book to your computer. From there, you can follow the instructions in the [editor's documentation](https://help.gitbook.com/). The only significant difference from MS Word is that, after saving your work, you will need to click the sync button to upload your content to GitHub.
 
 ![gitbooks sync](/textanalysiscoursebook/assets/conclusion/gitbooks-sync.jpg)
 
@@ -84,6 +84,6 @@ Find your own clone url, copy it to your clipboard, and use it like so (without 
 
 ```$ git clone {your_clone_url here}```
 
-This will copy the repository to your machine. From there, you can edit using a plain text editor as normal and make changes to the repository using [git](/textanalysiscoursebook/book/https:/git-scm.com/). 
+This will copy the repository to your machine. From there, you can edit using a plain text editor as normal and make changes to the repository using [git](https://git-scm.com/). 
 
-At this point you should have everything you need to edit your copy of the book as you see fit for your own needs. If we haven't covered something here or you run into problems, drop us a line in our [discussions forum](/textanalysiscoursebook/book/https:/www.gitbook.com/book/bmw9t/introduction-to-text-analysis/discussions).
+At this point you should have everything you need to edit your copy of the book as you see fit for your own needs. If we haven't covered something here or you run into problems, drop us a line in our [discussions forum](https://www.gitbook.com/book/bmw9t/introduction-to-text-analysis/discussions).

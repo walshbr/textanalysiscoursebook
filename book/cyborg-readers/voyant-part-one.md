@@ -2,7 +2,7 @@
 layout: lesson
 title:  Voyant Part One
 ---
-We will be using a tool called [Voyant](/textanalysiscoursebook/book/http:/voyant-tools.org/) to introduce some basic topics in text analysis using cyborg readers.
+We will be using a tool called [Voyant](http://voyant-tools.org/) to introduce some basic topics in text analysis using cyborg readers.
 
 Upon arriving at Voyant you will encounter a space where you can upload texts. For the following graphs, we have uploaded the full text of _The String of Pearls_, the 1846-1847 penny dreadful that featured Sweeney Todd, the demon barber of Fleet Street. Feel free to [download that dataset](/textanalysiscoursebook/assets/the-string-of-pearls-full.txt) and use it to produce the same results for following along, or upload your own texts using the window provided.
 
@@ -11,15 +11,15 @@ After Voyant processes your text you'll get a series of window panes with lots o
 
 ![default view of string of pearls in voyant](/textanalysiscoursebook/assets/cyborg-readers/voyant-overview.jpg)
 
-Voyant gives you lots of options, so do not be overwhelmed. Voyant provides [great documentation](/textanalysiscoursebook/book/http:/docs.voyant-tools.org/start/) for working through their interface, and we will not rehearse them all again here. Instead, we will just focus on a few features. The top left pane may be the most familiar to you:
+Voyant gives you lots of options, so do not be overwhelmed. Voyant provides [great documentation](http://docs.voyant-tools.org/start/) for working through their interface, and we will not rehearse them all again here. Instead, we will just focus on a few features. The top left pane may be the most familiar to you:
 
 ![voyant default wordcloud of string of pearls](/textanalysiscoursebook/assets/cyborg-readers/voyant-word-cloud-default.jpg)
 
-Word clouds like these have been made popular in recent years by [Wordle](/textanalysiscoursebook/book/http:/www.wordle.net/). They do nothing more than count the different words in a text: the more frequent a particular word appears, the larger its presence in the word cloud. In fact, Voyant allows you to see the underlying frequencies that it is using to generate the cloud if you click the "Corpus Terms" button above the word cloud.
+Word clouds like these have been made popular in recent years by [Wordle](http://www.wordle.net/). They do nothing more than count the different words in a text: the more frequent a particular word appears, the larger its presence in the word cloud. In fact, Voyant allows you to see the underlying frequencies that it is using to generate the cloud if you click the "Corpus Terms" button above the word cloud.
 
 ![underlying corpus term frequency](/textanalysiscoursebook/assets/cyborg-readers/voyant-term-frequencies.jpg)
 
-Concordances like these are some of the oldest forms of text analysis that we have, and computers are especially good at producing them. In fact, a project of this kind is frequently cited as one of the origin stories of digital humanities: [Father Roberto Busa's massive concordance of the works of St. Thomas Aquinas](/textanalysiscoursebook/book/http:/www.historyofinformation.com/expanded.php?id=2321), begun on punch cards in the 1940's and 1950's. It was one of the first works of its kind and was instrumental in expanding the kinds of things that we could use computers to do.
+Concordances like these are some of the oldest forms of text analysis that we have, and computers are especially good at producing them. In fact, a project of this kind is frequently cited as one of the origin stories of digital humanities: [Father Roberto Busa's massive concordance of the works of St. Thomas Aquinas](http://www.historyofinformation.com/expanded.php?id=2321), begun on punch cards in the 1940's and 1950's. It was one of the first works of its kind and was instrumental in expanding the kinds of things that we could use computers to do.
 
 Busa's work took years. We can now carry out similar searches in seconds, and we can learn a lot by simply counting words. The most frequent words, by far, are 'said' and 'Todd," which makes a certain amount of sense. Many characters might speak and, when they do, they are probably talking about or to the central character, if they aren't Todd himself.
 
@@ -53,7 +53,7 @@ For one, looking at these word clouds suggests that much of the vocabulary of th
 
 Additionally, most of the words are short, one or two syllables long.  Penny dreadfuls like _The String of Pearls_ were aimed at working class audiences: could the prevalence of these relatively 'simple' words reflect the audience of the text? In order to substantiate such a claim, we would probably want to look at other publications of the period to see whether or not this vocabulary was typical.
 
-If we load Arthur Conan Doyle's "[A Scandal in Bohemia](/textanalysiscoursebook/book/http:/www.gutenberg.org/files/1661/1661-h/1661-h.htm#1)" into Voyant, you can see that we get quite different results. \(Again, feel free to follow along.\)
+If we load Arthur Conan Doyle's "[A Scandal in Bohemia](http://www.gutenberg.org/files/1661/1661-h/1661-h.htm#1)" into Voyant, you can see that we get quite different results. \(Again, feel free to follow along.\)
 
 ![scandal in bohemia word cloud](/textanalysiscoursebook/assets/cyborg-readers/scandal-in-bohemia-word-cloud.jpg)
 
@@ -67,6 +67,6 @@ Some of these conclusions were probably pretty obvious as you read these two wor
 
 ## Further Resources
 
-* Geoffrey Rockwell and Stéfan Sinclair, the creators of Voyant, have a great book on using it for text analysis: *[Hermeneutica](/textanalysiscoursebook/book/https:/mitpress.mit.edu/books/hermeneutica)*.
+* Geoffrey Rockwell and Stéfan Sinclair, the creators of Voyant, have a great book on using it for text analysis: *[Hermeneutica](https://mitpress.mit.edu/books/hermeneutica)*.
 
-* Shawn Graham, Ian Milligan, and Scott Weingart have an excellent introduction to working with humanities data in *[Exploring Big Historical Data: The Historian's Macroscope](/textanalysiscoursebook/book/http:/www.themacroscope.org/2.0/)*.
+* Shawn Graham, Ian Milligan, and Scott Weingart have an excellent introduction to working with humanities data in *[Exploring Big Historical Data: The Historian's Macroscope](http://www.themacroscope.org/2.0/)*.

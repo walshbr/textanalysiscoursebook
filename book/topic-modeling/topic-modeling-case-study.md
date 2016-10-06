@@ -26,7 +26,7 @@ After topic modeling a whole corpus, depending on the software you use, you will
 
 The program spits out a series of "topics," which in this case are defined as sets of words that tend to occur in documents together with statistical significance. In these examples, we asked for the program to give us twenty topics; the identifying number of each topic is the first number on the left side. Note two things. First, the numbers start with 0 and end with 19, instead of starting with 1 and ending with 20. Second, we have selected a few topics to highlight out of the total number; not all twenty are listed here. After the numbers, you see the series of words that make up that topic. The computer does not know anything about these topics at all; it merely sees that these words often co-occur in documents.
 
-The real work of topic modeling involves interpreting these topics in ways to make them meaningful to readers. Some of them are noise, artifacts of words that tend to occur next to each other. But others make more sense. Based on topics 1 and 5 you might be able to infer that these particular texts came from descriptions of sound recordings of some kind. Topic 2 might suggest that we are talking about reading texts. Much of the work of topic modeling involves trying to make assumptions about what kinds of discourses these clusters of words imply. In this case, the corpus under question is about 1.8 million forum posts from [librivox.org](/textanalysiscoursebook/book/https:/www.librivox.org), a site that produces public domain audiobooks. All of the examples in this lesson are drawn from work that Brandon has done examining these materials. Some more topics:
+The real work of topic modeling involves interpreting these topics in ways to make them meaningful to readers. Some of them are noise, artifacts of words that tend to occur next to each other. But others make more sense. Based on topics 1 and 5 you might be able to infer that these particular texts came from descriptions of sound recordings of some kind. Topic 2 might suggest that we are talking about reading texts. Much of the work of topic modeling involves trying to make assumptions about what kinds of discourses these clusters of words imply. In this case, the corpus under question is about 1.8 million forum posts from [librivox.org](https://www.librivox.org), a site that produces public domain audiobooks. All of the examples in this lesson are drawn from work that Brandon has done examining these materials. Some more topics:
 
 ```
 11 2.5 recording librivox post test find make start wanted record forum minute thread fun check link listeners things readers give
@@ -80,7 +80,7 @@ The first line here contains information about the document, an ID for the docum
 ```
 
 This post is post number 0, the first post chronicled by the topic modeling software. Brandon stripped out some of the punctuation, but you probably recognize what follows as looking sort of like a URL. This topic modeling information corresponds to a forum post that exists at this URL:
-[https:/forum.librivox.org/viewtopic.php?f=23&t=2](/textanalysiscoursebook/book/https:/forum.librivox.org/viewtopic.php?f=23&t=2).
+[https://forum.librivox.org/viewtopic.php?f=23&t=2](https://forum.librivox.org/viewtopic.php?f=23&t=2).
 What follows is a list of each topic our topic modeling software produced and the weight of each topic for that document:
 
 ```
@@ -113,14 +113,14 @@ Don't be alarmed if topic modeling seems much more abstract than the material we
 
 ## Further Resources
 
-* Andrew Goldstone and Ted Underwood have a great case study of [topic modeling ](/textanalysiscoursebook/book/https:/andrewgoldstone.com/blog/2012/12/13/pmla/)_[PMLA](/textanalysiscoursebook/book/https:/andrewgoldstone.com/blog/2012/12/13/pmla/)_ that also includes lots of useful introductions to topic modeling.
+* Andrew Goldstone and Ted Underwood have a great case study of [topic modeling ](https://andrewgoldstone.com/blog/2012/12/13/pmla/)_[PMLA](https://andrewgoldstone.com/blog/2012/12/13/pmla/)_ that also includes lots of useful introductions to topic modeling.
 
-* The Programming Historian has a [good introduction](/textanalysiscoursebook/book/http:/programminghistorian.org/lessons/topic-modeling-and-mallet) for executing topic modeling yourself using Mallet. It gets technical, but the early surveys of what topic modeling is can be very helpful.
+* The Programming Historian has a [good introduction](http://programminghistorian.org/lessons/topic-modeling-and-mallet) for executing topic modeling yourself using Mallet. It gets technical, but the early surveys of what topic modeling is can be very helpful.
 
-* For a more thorough explanation of how the algorithm behind topic modeling works, you might take a look at Lisa Rhody's [class exercise for teaching LDA](/textanalysiscoursebook/book/https:/github.com/lmrhody/topicmodelgame).
+* For a more thorough explanation of how the algorithm behind topic modeling works, you might take a look at Lisa Rhody's [class exercise for teaching LDA](https://github.com/lmrhody/topicmodelgame).
 
-* Miriam Posner is helpful on [understanding topic modeling results](/textanalysiscoursebook/book/http:/miriamposner.com/blog/very-basic-strategies-for-interpreting-results-from-the-topic-modeling-tool/).
+* Miriam Posner is helpful on [understanding topic modeling results](http://miriamposner.com/blog/very-basic-strategies-for-interpreting-results-from-the-topic-modeling-tool/).
 
-* Benjamin Schmidt in "[Words Alone: Dismantling Topic Modeling in the Humanities](/textanalysiscoursebook/book/http:/journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/#appendix)" provides very useful cautions when working with topic models over time.
+* Benjamin Schmidt in "[Words Alone: Dismantling Topic Modeling in the Humanities](http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/#appendix)" provides very useful cautions when working with topic models over time.
 
 
