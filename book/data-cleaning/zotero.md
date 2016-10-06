@@ -37,13 +37,13 @@ Author. Title. Book. Editor. Location: Publisher, Data. Format. Series.
 
 The formula will vary slightly depending on the type of item you are citing, but, if we have a full metadata listing for each text, we could imagine a tool that would put fill in the metadata and format it to our recipe. We could imagine software that would spit out a bibliography for us.
 
-If you have ever used something like [easybib.com](/book/https://www.easybib.com) to produce a bibliography, you have done exactly the process that I am describing. You fill in the metadata you want, and easybib spits out a citation.
+If you have ever used something like [easybib.com/https:/www.easybib.com) to produce a bibliography, you have done exactly the process that I am describing. You fill in the metadata you want, and easybib spits out a citation.
 
 You might have felt like you were cheating when using a tool like this as a shortcut for your citations, but we're here to let you in on a secret. Your instructors rely on similar tools. If you think putting together a bibliography for your 5 page essay is irritating, imagine doing one for a 300 page book manuscript. And at the end of the process, your publisher decides that you have to use Chicago style \(footnotes\) rather than MLA \(in-text citations\). No one wants to do any of this manually.
 
-To deal with citation situations like this, the academic community has developed their own tool: [Zotero](/book/https://www.zotero.org). Zotero can do everything we've described so far in a snap, but it can also do so much more. Spending a few minutes learning it will save you dozens if not hundreds of hours in your writing life. Seriously.
+To deal with citation situations like this, the academic community has developed their own tool: [Zotero/https:/www.zotero.org). Zotero can do everything we've described so far in a snap, but it can also do so much more. Spending a few minutes learning it will save you dozens if not hundreds of hours in your writing life. Seriously.
 
-First visit the [Zotero download page](/book/https://www.zotero.org/download). You can run Zotero out of Firefox, which allows you to capture and manage your citations without leaving the browser. But we like to separate the process of collecting citations from managing and using them. Download "Zotero Standalone" from the right window pane:
+First visit the [Zotero download page/https:/www.zotero.org/download). You can run Zotero out of Firefox, which allows you to capture and manage your citations without leaving the browser. But we like to separate the process of collecting citations from managing and using them. Download "Zotero Standalone" from the right window pane:
 
 ![zotero download](/assets/data-cleaning/zotero-download.jpg)
 
@@ -55,7 +55,7 @@ Once you download all those, open up Zotero Standalone. It should look something
 
 Your Zotero installation and library will look different from Brandon's, because his is full of materials related to things he has written. Let's grab some metadata to store it in Zotero. We will do this three different ways.
 
-First, let's enter information manually. Let's pull out our copy of Rosalind Crone's _Violent Victorians_ \(you can find the relevant metadata [here](/book/https://www.amazon.com/dp/071908685X/?tag=mh0b-20&hvadid=4965340066&hvqmt=p&hvbmt=bp&hvdev=c&ref=pd_sl_6usflqlo9o_p) if you don't have your own copy. By clicking on the plus sign at the top, you can select the type of object you are adding to your collection. This is a book, so let's select that.
+First, let's enter information manually. Let's pull out our copy of Rosalind Crone's _Violent Victorians_ \(you can find the relevant metadata [here/https:/www.amazon.com/dp/071908685X/?tag=mh0b-20&hvadid=4965340066&hvqmt=p&hvbmt=bp&hvdev=c&ref=pd_sl_6usflqlo9o_p) if you don't have your own copy. By clicking on the plus sign at the top, you can select the type of object you are adding to your collection. This is a book, so let's select that.
 
 ![adding a book citation](/assets/data-cleaning/zotero-add-citation.jpg)
 
@@ -71,7 +71,7 @@ Try entering this one: 0520221680. Zotero will automatically go out and grab the
 
 ![input by isbn](/assets/data-cleaning/zotero-input-by-isbn.jpg)
 
-Magic! But wait - there's more. Visit the Amazon webpage for _[Sara Baartman and the Hottentot Venus: A Ghost Story and a Biography](/book/https://www.amazon.com/Sara-Baartman-Hottentot-Venus-Biography/dp/0691147965)_. If you pay careful attention to your toolbars at the top of the webpage, you may have noticed a new one for Zotero \(fourth from the left in this image from Brandon's computer\).
+Magic! But wait - there's more. Visit the Amazon webpage for _[Sara Baartman and the Hottentot Venus: A Ghost Story and a Biography/https:/www.amazon.com/Sara-Baartman-Hottentot-Venus-Biography/dp/0691147965)_. If you pay careful attention to your toolbars at the top of the webpage, you may have noticed a new one for Zotero \(fourth from the left in this image from Brandon's computer\).
 
 ![zotero download from chrome](/assets/data-cleaning/zotero-download-from-chrome.jpg)
 

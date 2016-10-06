@@ -2,7 +2,7 @@
 layout: lesson
 title:  Voyant Part One
 ---
-We will be using a tool called [Voyant](/book/http://voyant-tools.org/) to introduce some basic topics in text analysis using distant reading tools.
+We will be using a tool called [Voyant/http:/voyant-tools.org/) to introduce some basic topics in text analysis using distant reading tools.
 
 Upon arriving at Voyant you will encounter a space where you can upload texts. For the following graphs, we have uploaded the full text of _The String of Pearls_, the 1846-7 penny dreadful that featured Sweeney Todd, the demon barber of Fleet Street. Feel free to [download that dataset](/assets/the-string-of-pearls-full.txt) and use it to produce the same results for following along, or upload your own texts using the window provided.
 
@@ -11,14 +11,14 @@ After Voyant processes your text you'll get a series of window panes with lots o
 
 ![default view of string of pearls in voyant](/assets/cyborg-readers/voyant-overview.jpg)
 
-Voyant gives you lots of options, so do not be overwhelmed. Voyant provides great documentation for working through their interface, and we will not rehearse them all again [here](/book/http://docs.voyant-tools.org/start/). Instead, we will just focus on a few features. The top left pane may be the most familiar to you:
+Voyant gives you lots of options, so do not be overwhelmed. Voyant provides great documentation for working through their interface, and we will not rehearse them all again [here/http:/docs.voyant-tools.org/start/). Instead, we will just focus on a few features. The top left pane may be the most familiar to you:
 
 ![voyant default wordcloud of string of pearls](/assets/cyborg-readers/voyant-word-cloud-default.jpg)
-Word clouds like these have been made popular in recent years by [Wordle](/book/http://www.wordle.net/). They do nothing more than count the different words in a text: the more frequent a particular word appears, the larger its presence in the word cloud. In fact, Voyant allows you to see the underlying frequencies that it is using to generate the cloud if you click the "Corpus Terms" button above the word cloud.
+Word clouds like these have been made popular in recent years by [Wordle/http:/www.wordle.net/). They do nothing more than count the different words in a text: the more frequent a particular word appears, the larger its presence in the word cloud. In fact, Voyant allows you to see the underlying frequencies that it is using to generate the cloud if you click the "Corpus Terms" button above the word cloud.
 
 ![underlying corpus term frequency](/assets/cyborg-readers/voyant-term-frequencies.jpg)
 
-Concordances like these are some of the oldest forms of text analysis that we have, and computers are especially good at producing them. In fact, a project of this kind frequently cited as one of the origin stories of digital humanities: [Father Roberto Busa's massive concordance of the works of St. Thomas Aquinas](/book/http://www.historyofinformation.com/expanded.php?id=2321) begun on punch cards in the 1940's and 50's was one of the first works of its kind and was instrumental in expanding the kinds of things that we could use computers to do.
+Concordances like these are some of the oldest forms of text analysis that we have, and computers are especially good at producing them. In fact, a project of this kind frequently cited as one of the origin stories of digital humanities: [Father Roberto Busa's massive concordance of the works of St. Thomas Aquinas/http:/www.historyofinformation.com/expanded.php?id=2321) begun on punch cards in the 1940's and 50's was one of the first works of its kind and was instrumental in expanding the kinds of things that we could use computers to do.
 
 Busa's work took years. We can now carry out similar searches in seconds, and we can learn a lot simply by counting words. The most frequent words, by far, are 'said' and 'Todd," which makes a certain amount of sense. Many characters might speak and, when they do, they are probably talking about the central character.
 
@@ -30,7 +30,7 @@ Use the dropdown list to switch from 'auto-detect' to none. Now the concordance 
 
 ![concordance with no stopwords](/assets/cyborg-readers/stopword-free-concordance.jpg)
 
-Words like these occur with such frequency that we often need to remove them entirely in order to get meaningful results. But the list of words that we might want to remove might change depending on the context. For example, language does not remain stable over time. Different decades and centuries have different linguistic patterns for which you might need to account. Shakespearean scholars might want to use an [early modern stopword list](/book/file.path/assets/early-modern-stopwords.txt) provided by Stephen Wittek. You can use this same area of _Voyant_ to edit the stoplist used by your analyis.
+Words like these occur with such frequency that we often need to remove them entirely in order to get meaningful results. But the list of words that we might want to remove might change depending on the context. For example, language does not remain stable over time. Different decades and centuries have different linguistic patterns for which you might need to account. Shakespearean scholars might want to use an [early modern stopword list/file.path/assets/early-modern-stopwords.txt) provided by Stephen Wittek. You can use this same area of _Voyant_ to edit the stoplist used by your analyis.
 
 There are some instances in which we might care a lot about just these words. They can tell us _how_ an author writes: those very words that might seem not to convey much meeting are the building blocks of style. Tamper with someone's use of prepositions or pronouns and you will quickly change the nature of their voice. You can use this same feature to edit the list of stopwords. Doing so will give you greater control over the tool and allow you to fine-tune it to your particular research questions.
 

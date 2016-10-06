@@ -2,8 +2,8 @@
 layout: page
 title:  Crowdsourcing
 ---
-* [Crowdsourcing](/book//crowdsourcing/crowdsourcing)
+* [Crowdsourcing](/book/crowdsourcing/crowdsourcing)
 
-* [Prism Part Two](/book//crowdsourcing/prism-part-two)
+* [Prism Part Two](/book/crowdsourcing/prism-part-two)
 
-* [Exercises](/book//crowdsourcing/exercises)
+* [Exercises](/book/crowdsourcing/exercises)

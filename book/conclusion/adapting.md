@@ -6,12 +6,12 @@ We encourage others to use this book for their own courses and to change it to m
 
 **Notes:**
 
-* **copying the book will only get you a particular version of the book at a particular point in time. By default, any changes we make to the book after you copy it will not be reflected in your version of the book. [Syncing your version](/book/https://help.github.com/articles/syncing-a-fork/) of the book with ours will likely conflict with any changes you have made, so I would only try that with great care.** 
-* **The GitBook editor and system are changing rapidly, and I make no guarantees that these steps are updated. As of this writing, they were, but let me know by filing an issue on our [GitHub repository](/book/https://github.com/bmw9t/introduction-to-text-analysis/issues) if you find a problem.**
+* **copying the book will only get you a particular version of the book at a particular point in time. By default, any changes we make to the book after you copy it will not be reflected in your version of the book. [Syncing your version/https:/help.github.com/articles/syncing-a-fork/) of the book with ours will likely conflict with any changes you have made, so I would only try that with great care.** 
+* **The GitBook editor and system are changing rapidly, and I make no guarantees that these steps are updated. As of this writing, they were, but let me know by filing an issue on our [GitHub repository/https:/github.com/bmw9t/introduction-to-text-analysis/issues) if you find a problem.**
 
 ## Getting Your Own Copy
 
-The contents of this book are hosted in [a repository on GitHub](/book/https://github.com/bmw9t/introduction-to-text-analysis) and rendered to the internet via [GitBooks](/book/gitbook.com). When we make changes to this file structure, the changes populate out to our GitBooks account, which renders the various files into a book. To make your own remixable copy of the book, you will need to make a copy our GitHub repository and sync your copy with a GitBook of your own. Things you'll need to begin:
+The contents of this book are hosted in [a repository on GitHub/https:/github.com/bmw9t/introduction-to-text-analysis) and rendered to the internet via [GitBooks/gitbook.com). When we make changes to this file structure, the changes populate out to our GitBooks account, which renders the various files into a book. To make your own remixable copy of the book, you will need to make a copy our GitHub repository and sync your copy with a GitBook of your own. Things you'll need to begin:
 
 - GitBooks Account
 - GitHub Account
@@ -49,11 +49,11 @@ You now have a working copy of the book hosted on GitHub and rendered in GitBook
 
 #### Markdown
 
-From here you just need to know a few more things to edit your new and ready-to-remix textbook. The book is written as a series of files in **markdown**, a form of markup that can easily be converted into HTML. GitBooks provides a [great tutorial on markdown](/book/https://gitbookio.gitbooks.io/markdown/content/) that help get you started. 
+From here you just need to know a few more things to edit your new and ready-to-remix textbook. The book is written as a series of files in **markdown**, a form of markup that can easily be converted into HTML. GitBooks provides a [great tutorial on markdown/https:/gitbookio.gitbooks.io/markdown/content/) that help get you started. 
 
 #### Editing with GitBooks Editor
 
-If markdown feels too complicated, GitBooks also provides a handy [desktop editor](/book/https://www.gitbook.com/editor/osx) that can make the process just about as intuitive as writing in Microsoft Word. You can type in markdown, but the editor will also convert certain commands to markdown for you:
+If markdown feels too complicated, GitBooks also provides a handy [desktop editor/https:/www.gitbook.com/editor/osx) that can make the process just about as intuitive as writing in Microsoft Word. You can type in markdown, but the editor will also convert certain commands to markdown for you:
 
 \*\*bolded text\*\* will render as **bolded text**.
 
@@ -65,7 +65,7 @@ The interface provides a preview of what your text will look like to the right o
 
 ![gitbooks cloning locally](/assets/conclusion/gitbooks-clone.jpg)
 
-The computer will **clone**, or copy, the book to your computer. From there, you can follow the instructions in the [editor's documentation](/book/https://help.gitbook.com/). The only significant difference from MS Word is that, after saving your work, you will need to click the sync button to upload your content to GitHub.
+The computer will **clone**, or copy, the book to your computer. From there, you can follow the instructions in the [editor's documentation/https:/help.gitbook.com/). The only significant difference from MS Word is that, after saving your work, you will need to click the sync button to upload your content to GitHub.
 
 ![gitbooks sync](/assets/conclusion/gitbooks-sync.jpg)
 
@@ -81,6 +81,6 @@ Find your own clone url, copy it to your clipboard, and use it like so (without 
 
 ```$ git clone {your_clone_url here}```
 
-This will copy the repository to your machine. From there, you will just edit using a plain text editor as normal and make changes to the repository using [git](/book/https://git-scm.com/). 
+This will copy the repository to your machine. From there, you will just edit using a plain text editor as normal and make changes to the repository using [git/https:/git-scm.com/). 
 
-At this point you should have everything you need to edit your copy of the book as you see fit for your own needs. If we haven't covered something here or you run into problems, drop us a line in our [discussions forum](/book/https://www.gitbook.com/book/bmw9t/introduction-to-text-analysis/discussions).
+At this point you should have everything you need to edit your copy of the book as you see fit for your own needs. If we haven't covered something here or you run into problems, drop us a line in our [discussions forum/https:/www.gitbook.com/book/bmw9t/introduction-to-text-analysis/discussions).

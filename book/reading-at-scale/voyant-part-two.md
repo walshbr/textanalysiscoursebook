@@ -16,7 +16,7 @@ In this list of the first ten uses of 'said', two of them are closely joined wit
 
 Moving away from particular words towards clusters of phrases introduces us to the concepts of **ngrams** and **collocates**.
 
-You may have heard of **ngrams** from [the Google Ngram Viewer](/book/https://books.google.com/ngrams), which allows users to search large corpora for specified words or phrases. An ngram is a sequence of words that occurs next to each other of a particular length: the 'n' becomes a stand-in for the specified length of phrase. So take the following sentence:
+You may have heard of **ngrams** from [the Google Ngram Viewer/https:/books.google.com/ngrams), which allows users to search large corpora for specified words or phrases. An ngram is a sequence of words that occurs next to each other of a particular length: the 'n' becomes a stand-in for the specified length of phrase. So take the following sentence:
 
 "This is a sentence to illustrate ngrams."
 
@@ -45,7 +45,7 @@ Are there any significant political, social, or technological events during that
 What are your research questions?
 How much do your research questions depend on time? specific uses of particular language that are likely to change?
 
-If these issues seem like they could affect your work, you can still responsibily analyze your data by exploring other options for text analysis. In particular, [learning to program yourself](/book//conclusion/where-to-go.md) can offer you greater control over the kinds of things that your work accounts for.
+If these issues seem like they could affect your work, you can still responsibily analyze your data by exploring other options for text analysis. In particular, [learning to program yourself](/book/conclusion/where-to-go.md) can offer you greater control over the kinds of things that your work accounts for.
 
 The 'trends' pane can be quite handy, and it will allow you to see individual words or phrases as they rise and fall over the course of a corpus. Think of it as the next step in critically analyzing a concordance. After all, texts occur in sequence, and we can learn a lot from examining the locations in which significant words tend to cluster. You can think of this graph feature as roughly charting the time of the narrative: it cares about the order in which words occur. As we shortly see in our next chapter on **topic modeling**, this is not always the case.
 

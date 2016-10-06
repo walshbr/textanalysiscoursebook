@@ -2,8 +2,8 @@
 layout: page
 title:  Classifiers
 ---
-* [Supervised Classifiers](/book//classifiers/supervised-classifiers)
+* [Supervised Classifiers](/book/classifiers/supervised-classifiers)
 
-* [Classifying Texts](/book//classifiers/classifying-texts)
+* [Classifying Texts](/book/classifiers/classifying-texts)
 
-* [Exercises](/book//classifiers/exercises)
+* [Exercises](/book/classifiers/exercises)

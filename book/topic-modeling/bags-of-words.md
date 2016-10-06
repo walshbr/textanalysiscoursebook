@@ -8,7 +8,7 @@ Take this passage:
 
 > I will, for the sake of argument, assume that the information given to the coroner by the officer of one of the medical schools is correct, and that Dr. Phillips is right in considering that the character of the mutilation in question justifies the assumption that the perpetrator was probably one who possessed some knowledge of anatomy. But that the inference which has been deduced is warranted, any one who is the least acquainted with medical science and practice will unhesitatingly deny and indignantly repudiate. That a lunatic may have desired to obtain possession of certain organs for some insane purpose is very possible, and the theory of the murdering fiend being a madman only derives confirmation from the information obtained by the coroner. But that the parts of the body carried off were wanted for any quasi scientific publication, or any other more or less legitimate purpose, no one having any knowledge of medical science will for a moment believe.
 
-The excerpt is from a letter about the Jack the Ripper murders from the _Pall Mall Gazette_ published on September 28, 1888. Even without knowing anything about the context, you can probably infer rough senses of the topic of the text: murder. We might further say that there are a number of overlapping topics in the text: evidence, medicine, murder, and many more. But how did you know this? Besides reading the whole text, you could probably skim and get a sense from certain words that strongly indicate these topics to you. Here is the same passage with one representation of how reading might have taken place for you using [_Prism_](/book/https://prism.scholarslab.org). We have highlighted various words associated with particular categories as such:
+The excerpt is from a letter about the Jack the Ripper murders from the _Pall Mall Gazette_ published on September 28, 1888. Even without knowing anything about the context, you can probably infer rough senses of the topic of the text: murder. We might further say that there are a number of overlapping topics in the text: evidence, medicine, murder, and many more. But how did you know this? Besides reading the whole text, you could probably skim and get a sense from certain words that strongly indicate these topics to you. Here is the same passage with one representation of how reading might have taken place for you using [_Prism_/https:/prism.scholarslab.org). We have highlighted various words associated with particular categories as such:
 
 ```
 Highlight Color: Topic
@@ -80,7 +80,7 @@ But we also gain the ability to think about a text in new ways. If we have lists
 
 ## Further Resources
 
-* The [Wikipedia page on the Bag of Words model](/book/https://en.wikipedia.org/wiki/Bag-of-words_model)
+* The [Wikipedia page on the Bag of Words model/https:/en.wikipedia.org/wiki/Bag-of-words_model)
   was helpful for putting this lesson together. 
-* While we haven't quite gotten to topic modeling yet, Matt Jockers has a good summary description of how topic modeling and LDA work in these terms called "[LDA Buffet: A Topic Modeling Fable](/book/http://www.matthewjockers.net/macroanalysisbook/lda/)."
+* While we haven't quite gotten to topic modeling yet, Matt Jockers has a good summary description of how topic modeling and LDA work in these terms called "[LDA Buffet: A Topic Modeling Fable/http:/www.matthewjockers.net/macroanalysisbook/lda/)."
 
