@@ -1,7 +1,8 @@
 ---
 layout: lesson
 title:  Google NGram Viewer
----The [Google NGram Viewer](/textanalysiscoursebook/book/https:/books.google.com/ngrams) is often the first thing brought out when people discuss large-scale textual analysis, and it serves well as a basic introduction into the possibilities of computer-assisted reading. 
+---
+The [Google NGram Viewer](/textanalysiscoursebook/book/https:/books.google.com/ngrams) is often the first thing brought out when people discuss large-scale textual analysis, and it serves well as a basic introduction into the possibilities of computer-assisted reading. 
 
 ![google ngram splash page](/textanalysiscoursebook/assets/issues/google-ngram-viewer.jpg)
 
