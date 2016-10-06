@@ -35,11 +35,11 @@ Think about all the annotations that you put on your own pages as you read them.
 
 And we can represent it graphically, like so, where black denotes the stanza boundaries, horizontal blue the lines, and the rotating colors under the final words describe a rhyme scheme:
 
-![marking up poem by hand graphically](/assets/archives/tei-graphic.jpg)
+![marking up poem by hand graphically](/textanalysiscoursebook/assets/archives/tei-graphic.jpg)
 
 But you probably would need a moment to realize what was going on if you came to this having not highlighted things yourself. We can perform a similar function with text annotations, which gets closer to a meaning that we could understand without having any prompting:
 
-![tei with text annotations](/assets/archives/tei.jpg)
+![tei with text annotations](/textanalysiscoursebook/assets/archives/tei.jpg)
 
 But for a computer to understand this, we need an even more delineated way of describing the passage. We have to pay careful attention to **syntax**, the ways in which we mark particular things to provide information to the computer. Computers require very specific systematic guidelines to be able to process information, as you will learn in our chapter on Cyborg readers. Scholars have been working for years to develop such a system for describing texts in a way that can be processed by software. The *Text Encoding Initiative* (TEI), the result of this work, is an attempt to make abstract humanities concepts legible to machines. TEI applied to the passage, might begin to look something like this:
 
@@ -87,7 +87,7 @@ One last one. Remember our rhyme scheme and line numbers? We can encode those to
   </lg>
  ```
 
-I have added attributes to denote the line numbers for each line as well as the rhyme scheme, and then a new <rhyme> tag for each line denotes what word the rhyme is associated with. All of the tags used here can be found in the tutorial on poetry of the [TEI by Example/http:/teibyexample.org/modules/TBED04v00.htm) page.
+I have added attributes to denote the line numbers for each line as well as the rhyme scheme, and then a new <rhyme> tag for each line denotes what word the rhyme is associated with. All of the tags used here can be found in the tutorial on poetry of the [TEI by Example](/textanalysiscoursebook/book/http:/teibyexample.org/modules/TBED04v00.htm) page.
 
 Once a text has been **encoded** in this way, it can be represented more easily in a digital form. This work may not necessarily actually make it *look* any different. But it does allow you to do new and exciting things to your work. TEI encoding can make it possible to provide nuanced digital editions of a work. We could actually say to a program, pull out all the rhyming words in a poem. Make them appear differently on a webpage. Change them all to "TEI is the best."
 

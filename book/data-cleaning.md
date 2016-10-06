@@ -2,8 +2,8 @@
 layout: page
 title:  Data Cleaning
 ---
-* [Problems with Data](/book/data-cleaning/problems-with-data)
+* [Problems with Data](/textanalysiscoursebook/book/data-cleaning/problems-with-data)
 
-* [Zotero](/book/data-cleaning/zotero)
+* [Zotero](/textanalysiscoursebook/book/data-cleaning/zotero)
 
-* [Exercises](/book/data-cleaning/exercises)
+* [Exercises](/textanalysiscoursebook/book/data-cleaning/exercises)

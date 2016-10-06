@@ -4,7 +4,7 @@ title:  Zotero
 ---
 You might be thinking to yourself, "I can't believe you made me read an entire section on data cleaning." Sorry you feel that way. Here is a dog in a blanket:
 
-![dog in blanket photo](/assets/data-cleaning/dog-blanket.jpeg)
+![dog in blanket photo](/textanalysiscoursebook/assets/data-cleaning/dog-blanket.jpeg)
 
 Let's just pretend you said something on the order of, "metadata is all well and good, but how am I going to use this in my everyday life beyond library searches?"
 
@@ -37,47 +37,47 @@ Author. Title. Book. Editor. Location: Publisher, Data. Format. Series.
 
 The formula will vary slightly depending on the type of item you are citing, but, if we have a full metadata listing for each text, we could imagine a tool that would put fill in the metadata and format it to our recipe. We could imagine software that would spit out a bibliography for us.
 
-If you have ever used something like [easybib.com/https:/www.easybib.com) to produce a bibliography, you have done exactly the process that I am describing. You fill in the metadata you want, and easybib spits out a citation.
+If you have ever used something like [easybib.com](/textanalysiscoursebook/book/https:/www.easybib.com) to produce a bibliography, you have done exactly the process that I am describing. You fill in the metadata you want, and easybib spits out a citation.
 
 You might have felt like you were cheating when using a tool like this as a shortcut for your citations, but we're here to let you in on a secret. Your instructors rely on similar tools. If you think putting together a bibliography for your 5 page essay is irritating, imagine doing one for a 300 page book manuscript. And at the end of the process, your publisher decides that you have to use Chicago style \(footnotes\) rather than MLA \(in-text citations\). No one wants to do any of this manually.
 
-To deal with citation situations like this, the academic community has developed their own tool: [Zotero/https:/www.zotero.org). Zotero can do everything we've described so far in a snap, but it can also do so much more. Spending a few minutes learning it will save you dozens if not hundreds of hours in your writing life. Seriously.
+To deal with citation situations like this, the academic community has developed their own tool: [Zotero](/textanalysiscoursebook/book/https:/www.zotero.org). Zotero can do everything we've described so far in a snap, but it can also do so much more. Spending a few minutes learning it will save you dozens if not hundreds of hours in your writing life. Seriously.
 
-First visit the [Zotero download page/https:/www.zotero.org/download). You can run Zotero out of Firefox, which allows you to capture and manage your citations without leaving the browser. But we like to separate the process of collecting citations from managing and using them. Download "Zotero Standalone" from the right window pane:
+First visit the [Zotero download page](/textanalysiscoursebook/book/https:/www.zotero.org/download). You can run Zotero out of Firefox, which allows you to capture and manage your citations without leaving the browser. But we like to separate the process of collecting citations from managing and using them. Download "Zotero Standalone" from the right window pane:
 
-![zotero download](/assets/data-cleaning/zotero-download.jpg)
+![zotero download](/textanalysiscoursebook/assets/data-cleaning/zotero-download.jpg)
 
 This will download an application to your desktop that, if you're like me, you'll want to put in a place where you'll have quick and easy access to it. While you're at it, you will need to add at least one of the browser extensions by clicking on the button in the same pane. I recommend you just add the extension to every browser that you have on your computer: this little download is what will allow you to pull citation information down off a webpage.
 
 Once you download all those, open up Zotero Standalone. It should look something like this:
 
-![zotero standalone screen](/assets/data-cleaning/zotero-standalone.jpg)
+![zotero standalone screen](/textanalysiscoursebook/assets/data-cleaning/zotero-standalone.jpg)
 
 Your Zotero installation and library will look different from Brandon's, because his is full of materials related to things he has written. Let's grab some metadata to store it in Zotero. We will do this three different ways.
 
-First, let's enter information manually. Let's pull out our copy of Rosalind Crone's _Violent Victorians_ \(you can find the relevant metadata [here/https:/www.amazon.com/dp/071908685X/?tag=mh0b-20&hvadid=4965340066&hvqmt=p&hvbmt=bp&hvdev=c&ref=pd_sl_6usflqlo9o_p) if you don't have your own copy. By clicking on the plus sign at the top, you can select the type of object you are adding to your collection. This is a book, so let's select that.
+First, let's enter information manually. Let's pull out our copy of Rosalind Crone's _Violent Victorians_ \(you can find the relevant metadata [here](/textanalysiscoursebook/book/https:/www.amazon.com/dp/071908685X/?tag=mh0b-20&hvadid=4965340066&hvqmt=p&hvbmt=bp&hvdev=c&ref=pd_sl_6usflqlo9o_p) if you don't have your own copy. By clicking on the plus sign at the top, you can select the type of object you are adding to your collection. This is a book, so let's select that.
 
-![adding a book citation](/assets/data-cleaning/zotero-add-citation.jpg)
+![adding a book citation](/textanalysiscoursebook/assets/data-cleaning/zotero-add-citation.jpg)
 
 Doing so will shift your Zotero pane so that you can enter the metadata for Crone's book on the right. Go ahead and do that.
 
-![adding crone citation](/assets/data-cleaning/zotero-editing-pane.jpg)
+![adding crone citation](/textanalysiscoursebook/assets/data-cleaning/zotero-editing-pane.jpg)
 
 Zotero now knows about our citation and we could use it for any number of things. But before we move on, let's cover two other ways to add citation information. Every book is given an an identifying number, an **International Standard Book Number \(ISBN\)**. This number is unique to every book. Zotero can map these numbers to their associated metadata. Clicking on the magic wand at the top of the Zotero Standalone pane will give you a place to enter an ISBN:
 
-![magic wand ISBN input](/assets/data-cleaning/zotero-magic-wand.jpg)
+![magic wand ISBN input](/textanalysiscoursebook/assets/data-cleaning/zotero-magic-wand.jpg)
 
 Try entering this one: 0520221680. Zotero will automatically go out and grab the metadata for its associated book: _Spectacular Realities_ by Vanessa Schwartz.
 
-![input by isbn](/assets/data-cleaning/zotero-input-by-isbn.jpg)
+![input by isbn](/textanalysiscoursebook/assets/data-cleaning/zotero-input-by-isbn.jpg)
 
-Magic! But wait - there's more. Visit the Amazon webpage for _[Sara Baartman and the Hottentot Venus: A Ghost Story and a Biography/https:/www.amazon.com/Sara-Baartman-Hottentot-Venus-Biography/dp/0691147965)_. If you pay careful attention to your toolbars at the top of the webpage, you may have noticed a new one for Zotero \(fourth from the left in this image from Brandon's computer\).
+Magic! But wait - there's more. Visit the Amazon webpage for _[Sara Baartman and the Hottentot Venus: A Ghost Story and a Biography](/textanalysiscoursebook/book/https:/www.amazon.com/Sara-Baartman-Hottentot-Venus-Biography/dp/0691147965)_. If you pay careful attention to your toolbars at the top of the webpage, you may have noticed a new one for Zotero \(fourth from the left in this image from Brandon's computer\).
 
-![zotero download from chrome](/assets/data-cleaning/zotero-download-from-chrome.jpg)
+![zotero download from chrome](/textanalysiscoursebook/assets/data-cleaning/zotero-download-from-chrome.jpg)
 
 By default, Zotero just assumes you are trying to grab the webpage itself. When you visit a page with a citation you can download, however, the Zotero icon will change accordingly as it recognizes the metadata embedded in the page. Zotero will suck down the metadata on the page and store them in your Standalone App so that you can use them later. Magic!
 
-![zotero input from web](/assets/data-cleaning/zotero-input-from-web.jpg)
+![zotero input from web](/textanalysiscoursebook/assets/data-cleaning/zotero-input-from-web.jpg)
 
 Well, not quite. We won't get lost in the weeds of explaining the technical details of how this works, as that is a subject for a different class. For now, just know that Zotero is interacting with hidden information on the webpage that provides information to programs like it. The average user never knows that these webpages contain information like this, but Zotero can leverage that invisible data into powerful content to make your life easier.
 
@@ -87,19 +87,19 @@ That being said, you need to remember the principle of Garbage In, Garbage Out. 
 
 Now that we have our metadata, the fun begins. If you use Microsoft Word, strap in and buckle up. Go to the Zotero menu and select Preferences. From the 'Cite' menu, Install the Microsoft Word Add-in. Doing so will add a special 'Zotero' menu to every Microsoft Word document that you open.
 
-![zotero menu in word](/assets/data-cleaning/zotero-menu-in-word.jpg)
+![zotero menu in word](/textanalysiscoursebook/assets/data-cleaning/zotero-menu-in-word.jpg)
 
 There are lot of options here, but the most important for right now are 'Add Bibliography' and 'Add Citation'. First, click 'Add Citation.' You will need to select a citation style since there is none associated with this document yet. Let's suggest MLA 7th Edition because Brandon is a literary studies person. It will make him happy.
 
-![zotero selection citation style](/assets/data-cleaning/zotero-select-citation-style.jpg)
+![zotero selection citation style](/textanalysiscoursebook/assets/data-cleaning/zotero-select-citation-style.jpg)
 
 Next pops up an input field that asks you to give some information so that it can locate a citation for you. Typing in 'Crone' will allow Zotero to recognize the author for the book we inputted. It will bring up the metadata we want. Click it to accept.
 
-![zotero searching for citation](/assets/data-cleaning/zotero-searching-for-citation.jpg)
+![zotero searching for citation](/textanalysiscoursebook/assets/data-cleaning/zotero-searching-for-citation.jpg)
 
 The input field now shows how the citation will show up. In most cases, however, we want to customize it. To do so, click on the citation to bring up some more options. Here you can add page numbers or, importantly suppress the author name depending on whether you only need the page numbers themselves. Let's give this entry the page numbers 45-7. Hit return to accept your changes.
 
-![zotero give page numbers to citation](/assets/data-cleaning/zotero-give-page-numbers-to-citation.jpg)
+![zotero give page numbers to citation](/textanalysiscoursebook/assets/data-cleaning/zotero-give-page-numbers-to-citation.jpg)
 
 Et voila! Your citation appears in the text in just the same way as if you were doing it by hand, properly formatted with the correct page numbers. The process might appear a little slow, but once you get the hang of the workflow, this process greatly speeds up writing. Gather all your citations in one place, and then learn the handful of keyboard shortcuts for working with Zotero in word. These are the ones I use most often:
 
@@ -113,7 +113,7 @@ Get the hang of these commands, and you'll save loads of time.
 
 But adding citations is only one part of the process. You also want to add a bibliography to your document based on those citations. Zotero can do this too! From the Zotero menu in Word, select 'Add Bibliography'. Zotero will magically format the metadata you're using into bibliographical entries. Then format those into a bibliography based on the citation style you have chosen for the document. By default, the bibliography will appear wherever your cursor was. So you'll need to move it around to put it in a location that works for you. Add a couple more citations using the other things we added to Zotero and see if you can get it looking reasonable. Here is what I came up with:
 
-![zotero text with bibliography](/assets/data-cleaning/zotero-document-with-bibliography.jpg)
+![zotero text with bibliography](/textanalysiscoursebook/assets/data-cleaning/zotero-document-with-bibliography.jpg)
 
 I put the bibliography at the end of the text and hit return a few times after the last sentence to give it space \(you often might insert a page break to put it on its own page\). I gave it a centered heading. And I inserted a couple other citations to flesh things out.
 

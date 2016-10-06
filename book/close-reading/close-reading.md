@@ -29,7 +29,7 @@ Is the note just old? Was your roommate in a hurry and actually asking you to wa
 
 The list could go on and on. We employ a similar range of skills when we read anything, be it fiction, poetry, historical documents. Close reading tends to refer to the last category, and might be best described as an activity in which a reader simply lets no detail of the text go unquestioned. The best way at approaching a good close reading is by asking \(and attempting to answer\) questions about every piece of a text.
 
-Take a sentence from the 1775 _Anecdotes on the Countess du Barry_, a _libelle_ \(which you can find [here/http:/chnm.gmu.edu/revolution/d/261/)\) similar to the ones discussed in Sarah Maza's “The Diamond Necklace Affair Revisited: The Case of the Missing Queen.” Mme du Barry was a prostitute who was Louis XV's mistress at the end of his reign \(1715-1774\). Here is how the Count du Barry tells one of Louis XV's courtiers that he has a woman in mind for the king:
+Take a sentence from the 1775 _Anecdotes on the Countess du Barry_, a _libelle_ \(which you can find [here](/textanalysiscoursebook/book/http:/chnm.gmu.edu/revolution/d/261/)\) similar to the ones discussed in Sarah Maza's “The Diamond Necklace Affair Revisited: The Case of the Missing Queen.” Mme du Barry was a prostitute who was Louis XV's mistress at the end of his reign \(1715-1774\). Here is how the Count du Barry tells one of Louis XV's courtiers that he has a woman in mind for the king:
 
 > "I’ve got your business for you. You know I don’t lack taste. Trust me: you come to dinner at my house and tell me that I’m a cad if I don’t give you the most beautiful woman, the most fresh, the most seductive; a true morsel for a king."
 
@@ -50,7 +50,7 @@ You can answer these questions any number of ways, and this ambiguity is part of
 
 ## Primary and Secondary Texts for Historical Analysis
 
-In addition to reading texts closely, you also want to think about what the text is and its relationship to its historical context. For starters, you need to know if the work you are reading is a **primary** text or a **secondary** text. [Here/http:/umb.libguides.com/c.php?g=351019&p=2367357) is a good set of definitions:
+In addition to reading texts closely, you also want to think about what the text is and its relationship to its historical context. For starters, you need to know if the work you are reading is a **primary** text or a **secondary** text. [Here](/textanalysiscoursebook/book/http:/umb.libguides.com/c.php?g=351019&p=2367357) is a good set of definitions:
 
 > **Primary Sources** are immediate, first-hand accounts of a topic, from people who had a direct connection with it.
 > **Secondary Sources** are one step removed from primary sources, though they often quote or otherwise use primary sources. They can cover the same topic, but add a layer of interpretation and analysis.
@@ -59,7 +59,7 @@ Sarah Maza's article is a secondary text, whereas the _Anedcotes_, discussed abo
 
 Reading primary texts is absolutely invaluable, particularly in the study of history. There is no better way to understand events in the past than by examining the sources – whether journals, newspaper articles, letters, court case records, novels, artworks, music or autobiographies – that people from that period left behind. However, you need to approach primary sources with care and as something other than a 100% accurate representation of the truth. For instance, in reading the _Anecdotes_, you might ask: did the author actually witness the events he or she was describing? Probably not. In that is the case, what can this document help us understand? And what can't we use it to do?
 
-Thus, you want to read primary sources with a series of questions in mind. The following is adapted from this [guide/http:/apps.carleton.edu/curricular/history/study/):
+Thus, you want to read primary sources with a series of questions in mind. The following is adapted from this [guide](/textanalysiscoursebook/book/http:/apps.carleton.edu/curricular/history/study/):
 
 1. What implicit and explicit messages does this text contain? What did the author choose NOT to talk about?
 

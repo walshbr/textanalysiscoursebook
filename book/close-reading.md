@@ -2,8 +2,8 @@
 layout: page
 title:  Close Reading
 ---
-* [Close Reading and Sources](/book/close-reading/close-reading)
+* [Close Reading and Sources](/textanalysiscoursebook/book/close-reading/close-reading)
 
-* [Prism Part One](/book/close-reading/prism-part-one)
+* [Prism Part One](/textanalysiscoursebook/book/close-reading/prism-part-one)
 
-* [Exercises](/book/close-reading/exercises)
+* [Exercises](/textanalysiscoursebook/book/close-reading/exercises)

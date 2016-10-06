@@ -2,5 +2,5 @@
 layout: page
 title:  Introduction
 ---
-* [For Instructors](/book/introduction/for-instructors)
-* [For Students](/book/introduction/for-students)
+* [For Instructors](/textanalysiscoursebook/book/introduction/for-instructors)
+* [For Students](/textanalysiscoursebook/book/introduction/for-students)

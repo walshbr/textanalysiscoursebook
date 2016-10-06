@@ -2,8 +2,8 @@
 layout: page
 title:  Digital Archives
 ---
-* [Text Encoding Initiative](/book/archives/tei)
+* [Text Encoding Initiative](/textanalysiscoursebook/book/archives/tei)
 
-* [NINES and Digital Archives](/book/archives/nines)
+* [NINES and Digital Archives](/textanalysiscoursebook/book/archives/nines)
 
-* [Exercises](/book/archives/exercises)
+* [Exercises](/textanalysiscoursebook/book/archives/exercises)

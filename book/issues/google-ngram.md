@@ -1,9 +1,9 @@
 ---
 layout: lesson
 title:  Google NGram Viewer
----The [Google NGram Viewer/https:/books.google.com/ngrams) is often the first thing brought out when people discuss large-scale textual analysis, and it serves well as a basic introduction into the possibilities of computer-assisted reading. 
+---The [Google NGram Viewer](/textanalysiscoursebook/book/https:/books.google.com/ngrams) is often the first thing brought out when people discuss large-scale textual analysis, and it serves well as a basic introduction into the possibilities of computer-assisted reading. 
 
-![google ngram splash page](/assets/issues/google-ngram-viewer.jpg)
+![google ngram splash page](/textanalysiscoursebook/assets/issues/google-ngram-viewer.jpg)
 
 The Google NGram Viewer provides a quick and easy way to explore changes in language over the course of many years in many texts. Provide a word or comma-seperated phrase, and the NGram viewer will graph how often those search terms occur over a given corpus for a given number of years. You can specify a number of years as well as a particular google books corpus. 
 
@@ -26,7 +26,7 @@ With any large-scale text analysis like this, the underlying data is everything.
 
 > Where is this data coming from? 
 
-The Google NGram Viewer offers a dropdown menu where you can select a corpus for study. Our results would look a lot different depending on which corpus we selected. The corpora for these options are pulled from the Google Books scanning project (to see similar visualizations of your corpus you could try working with [Bookworm/http:/bookworm.culturomics.org/), a related tool). This raises a number of difficulties. For one, the corpus only has one copy of each book in its dataset. So things do not get scaled for circulation or popularity. A book that only sells one copy becomes weighted the same as a book that sells a thousand copies: they both become a single copy according to their methods. 
+The Google NGram Viewer offers a dropdown menu where you can select a corpus for study. Our results would look a lot different depending on which corpus we selected. The corpora for these options are pulled from the Google Books scanning project (to see similar visualizations of your corpus you could try working with [Bookworm](/textanalysiscoursebook/book/http:/bookworm.culturomics.org/), a related tool). This raises a number of difficulties. For one, the corpus only has one copy of each book in its dataset. So things do not get scaled for circulation or popularity. A book that only sells one copy becomes weighted the same as a book that sells a thousand copies: they both become a single copy according to their methods. 
 
 The Google Books corpus has also, at times, been criticized for its heavy reliance on poor quality scans of texts to generate their data (more on this in later chapters). The computer can't infer, for example, that the mispelling 'scyience' should be lumped in with the results for 'science.' Any underlying problems in scanning or uploading texts will skew the results. In addition, the results are better after 1800. There were far fewer books published before then, and even fewer on Google Books.  For now, just remember that graphs can appear to express fact when, in fact, the data is murky, subject for debate, or skewed. 
 
@@ -36,7 +36,7 @@ Even with a perfect corpus, our choices can make a big difference in the results
 
 <iframe name="ngram_chart" src="https:/books.google.com/ngrams/interactive_chart?content=scandal&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cscandal%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe> 
 
-It appears like something fairly dramatic happened around 1660 that caused a massive spike in the usage of 'scandal.' This in itself could be significant, but we might be interested in more nuanced readings of this data. In, say, bigrams containing scandal like 'political scandal' and 'religious scandal' to see when certain types of scandals come into prominence. The NGram Viewer allows for a number of nuanced searches that you can read about [here/https:/books.google.com/ngrams/info). For now, let's try out a wildcard search - '* scandal':
+It appears like something fairly dramatic happened around 1660 that caused a massive spike in the usage of 'scandal.' This in itself could be significant, but we might be interested in more nuanced readings of this data. In, say, bigrams containing scandal like 'political scandal' and 'religious scandal' to see when certain types of scandals come into prominence. The NGram Viewer allows for a number of nuanced searches that you can read about [here](/textanalysiscoursebook/book/https:/books.google.com/ngrams/info). For now, let's try out a wildcard search - '* scandal':
 
 <iframe name="ngram_chart" src="https:/books.google.com/ngrams/interactive_chart?content=*+scandal&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t2%3B%2C*%20scandal%3B%2Cc0%3B%2Cs0%3B%3Bthe%20scandal%3B%2Cc0%3B%3Ba%20scandal%3B%2Cc0%3B%3Bof%20scandal%3B%2Cc0%3B%3Band%20scandal%3B%2Cc0%3B%3Bgreat%20scandal%3B%2Cc0%3B%3Bfrom%20scandal%3B%2Cc0%3B%3Bno%20scandal%3B%2Cc0%3B%3Bthis%20scandal%3B%2Cc0%3B%3Bpublic%20scandal%3B%2Cc0%3B%3Bor%20scandal%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
 
@@ -80,6 +80,6 @@ That last phrase should cause some alarm: we haven't actually read any of these 
 
 ## Interpretation
 
-Of course, these graphs mean nothing on their own. It is our job to look at the results and describe them in meaningful ways. But be critical of what you see. You might find something interesting, but you might be looking at nonsense. It is your job to tell the difference. Beware of **apophenia**, the all to human urge to look at random data and find meaningful patterns in it. You can find wild patterns in relationships in anything if [you look hard enough/http:/tylervigen.com/spurious-correlations). After all, visualizations can confuse as much as clarify. Numbers and graphs do not carry objective meaning.![apophenia illustrated - noise illustration](/assets/issues/visual-clarity.jpg)
+Of course, these graphs mean nothing on their own. It is our job to look at the results and describe them in meaningful ways. But be critical of what you see. You might find something interesting, but you might be looking at nonsense. It is your job to tell the difference. Beware of **apophenia**, the all to human urge to look at random data and find meaningful patterns in it. You can find wild patterns in relationships in anything if [you look hard enough](/textanalysiscoursebook/book/http:/tylervigen.com/spurious-correlations). After all, visualizations can confuse as much as clarify. Numbers and graphs do not carry objective meaning.![apophenia illustrated - noise illustration](/textanalysiscoursebook/assets/issues/visual-clarity.jpg)
 
 Always think. Never let a graph think for you.
