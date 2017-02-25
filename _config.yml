@@ -3,14 +3,14 @@
 # Setup
 title:               Introduction to Text Analysis
 tagline:             'A Coursebook'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://bmw9t.github.io'
+description:         'Introduction to Text Analysis'
+url:                 'https://walshbr.com'
 baseurl:             '/textanalysiscoursebook'
 
 # About/contact
 author:
   name:              Brandon Walsh
-  url:               https://bmw9t.github.io/
+  url:               https://walshbr.com
   email:             walsh.brandon.michael@gmail.com
 
 # Permalinks
