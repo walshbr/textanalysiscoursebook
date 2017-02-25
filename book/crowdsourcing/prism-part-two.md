@@ -2,7 +2,7 @@
 layout: lesson
 title:  Prism Part Two
 ---
-Think back to [Prism](https://prism.scholarslab.org) and the transparency game. So far we have only really focused on the single transparencies and the interpretations one individual supplied. But the crucial last element of the game involves collecting the transparencies and stacking them. Hold the stack up the light, and you get a whole rainbow: you can see what everyone thinks about the text. Prism's visualizations offer one way of adapting this activity to a digital environment.
+Think back to [Prism](prism.scholarslab.org) and the transparency game. So far we have only really focused on the single transparencies and the interpretations one individual supplied. But the crucial last element of the game involves collecting the transparencies and stacking them. Hold the stack up the light, and you get a whole rainbow: you can see what everyone thinks about the text. Prism's visualizations offer one way of adapting this activity to a digital environment.
 
 ![prism transparencies stacked](/textanalysiscoursebook/assets/crowdsourcing/prism-future-stacked.jpg)
 

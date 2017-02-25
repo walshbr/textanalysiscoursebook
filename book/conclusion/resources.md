@@ -1,4 +1,4 @@
----
+	---
 layout: lesson
 title:  Further Resources
 ---
@@ -22,7 +22,7 @@ Each individual lesson contains suggested further readings on the particular top
 
 ## Tools
 * [Google NGram Viewer](https://books.google.com/ngrams)
-* [Prism](https://prism.scholarslab.org)
+* [Prism](prism.scholarslab.org)
 * [Voyant](https://voyant-tools.org)
 * [Zotero](https://zotero.org)
 
