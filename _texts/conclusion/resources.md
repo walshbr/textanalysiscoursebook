@@ -20,4 +20,4 @@
 
 ## Other
 * [Stanford Literary Lab](http://litlab.stanford.edu/)
-* [Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES)](https://www.nines.org)
+* [Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES)](http://www.nines.org)

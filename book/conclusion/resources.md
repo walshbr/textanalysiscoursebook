@@ -22,7 +22,7 @@ Each individual lesson contains suggested further readings on the particular top
 
 ## Tools
 * [Google NGram Viewer](https://books.google.com/ngrams)
-* [Prism](prism.scholarslab.org)
+* [Prism](http://prism.scholarslab.org)
 * [Voyant](https://voyant-tools.org)
 * [Zotero](https://zotero.org)
 
@@ -36,5 +36,5 @@ Each individual lesson contains suggested further readings on the particular top
 * [Walmart Gets Its Worst Yelp Reviews in Black and Latino Neighborhoods](http://www.citylab.com/work/2016/08/walmart-get-its-worst-yelp-reviews-in-black-and-latino-neighborhoods/497864/)
 
 ## Other
-* [Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES)](https://www.nines.org)
+* [Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES)](http://www.nines.org)
 * [Stanford Literary Lab](http://litlab.stanford.edu/)
