@@ -1,4 +1,4 @@
-	---
+---
 layout: lesson
 title:  Further Resources
 ---
