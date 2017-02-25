@@ -10,15 +10,13 @@ Take this passage:
 
 The excerpt is from [a letter](http://www.casebook.org/press_reports/pall_mall_gazette/18880928.html) cited below about the Jack the Ripper murders from the _Pall Mall Gazette_ published on September 28, 1888. Even without knowing anything about the context, you can probably infer a rough sense of the topic of the text: murder. We might further say that there are a number of overlapping topics in the text: evidence, medicine, murder, and many more. But how did you recognize these themes in the paragraph? If you skimmed the text, certain words might have lept out at you as indicating these topics. You see the words "coroner" and "body," and these words suggest particular things and not others. They make you think, "This article is about crime or medicine." They do not make you think, "Oh I'm reading a recipe for a nice guacamole" \(or at least we really hope they don't\). Vocabulary are the building blocks of the themes in a passage, and we can, theoretically, determine the topics at work in a text by paying close attention to the kinds of words that appear in it. Here is the same passage with one representation of how the reading process for this article might have taken place for you using [_Prism_](http://prism.scholarslab.org). We have highlighted various words associated with particular categories as such:
 
-```
-Highlight Color: Topic
----
-red: evidence
-green: medicine
-blue: murder
-black: words where two or more topics were marked the same amount.
-grey: no topic marked
-```
+    Highlight Color: Topic
+    ---
+    red: evidence
+    green: medicine
+    blue: murder
+    black: words where two or more topics were marked the same amount.
+    grey: no topic marked
 
 ![topic modeling highlights](/textanalysiscoursebook/assets/topic-modeling/topic-modeling-highlights.jpg)
 
@@ -43,39 +41,35 @@ Take the following two sentences:
 
 If we _normalize_ a text by removing the stopwords, lowercasing the words, and getting rid of the punctuation, we get a bag of words. In this case, the bag of words for these two sentences is the same:
 
-```
-[
-    "fine", 
-    "how", 
-    "are", 
-    "you", 
-    "doing"
-]
-```
+    [
+        "fine", 
+        "how", 
+        "are", 
+        "you", 
+        "doing"
+    ]
 
 The nuanced context of the sentences that makes the two of them different disappears, but we get the sense that they both discuss similar material. Now, we would not only want to know what words are being used; we'd also want to know how often they are mentioned. So a bag of words model for the following two sentences might produce something like the following:
 
 * Sentence A: "Barbara is doing fine, thank you."
 * Sentence B: "Thank you, Dave. I am doing fine."
 
-```
-Words in Corpus
-[
-    "Barbara",
-    "is",
-    "doing",
-    "fine",
-    "thank",
-    "you",
-    "Dave,
-    "I",
-    "am"
-]
+    Words in Corpus
+    [
+        "Barbara",
+        "is",
+        "doing",
+        "fine",
+        "thank",
+        "you",
+        "Dave,
+        "I",
+        "am"
+    ]
 
-Counts for Sentences
-A: [1, 1, 1, 1, 1, 1, 0, 0, 0]
-B: [0, 0, 1, 1, 1, 1, 1, 1, 1]
-```
+    Counts for Sentences
+    A: [1, 1, 1, 1, 1, 1, 0, 0, 0]
+    B: [0, 0, 1, 1, 1, 1, 1, 1, 1]
 
 Here we get two lists. "Words in Corpus" gives all of the words in our documents. "Counts for Sentence A" and "Counts for Sentence B" detail the number of times each of those terms occur in each sentence. So the first element of the Counts list for Sentence A is 1 because "Barbara" occurs 1 time. Sentence B has 0 in that same position because the word "Barbara" does not occur in the sentence. We could have numbers as large as we need in order to represent the text as a whole. Pretty easy for a couple of short sentences, but imagine being able to break apart whole novels like this.
 
@@ -85,33 +79,29 @@ One last thing. Let's add this sentence to the bag of words model that we've bee
 
 The new model looks like this:
 
-```
-Words in Corpus
+    Words in Corpus
 
-[
- "Barbara",
- "is",
- "doing",
- "fine",
- "thank",
- "you",
- "Dave,
- "I",
- "am"
-]
+    [
+     "Barbara",
+     "is",
+     "doing",
+     "fine",
+     "thank",
+     "you",
+     "Dave,
+     "I",
+     "am"
+    ]
 
-Counts for Sentences
-A: [1, 1, 1, 1, 1, 1, 0, 0, 0]
-B: [0, 0, 1, 1, 1, 1, 1, 1, 1]
-C: [0, 0, 0, 0, 0, 0, 1, 1, 1]
-```
+    Counts for Sentences
+    A: [1, 1, 1, 1, 1, 1, 0, 0, 0]
+    B: [0, 0, 1, 1, 1, 1, 1, 1, 1]
+    C: [0, 0, 0, 0, 0, 0, 1, 1, 1]
 
 Just by glancing at the counts for the three sentences, you could argue that two of the sentences are more similar to each other. Look at how many 1's you get in the sentences A and B vs. how many 0's you get in sentence C. You can do a lot of math to prove this, and even start to graph things to visualize the argument. Note that sentences 1 and 3 are mirror images of each other: they don't share any vocabulary in common. We can think about A and C as opposite ends of a continuum, then, and B being somewhere in between. Since Sentence B shares some with sentence A \(both contain "doing," "fine," "thank," and "you"\), but more with sentence C \(both contain "I" "am" and "Dave," as well as no "Barbara" or "is" for either one\), we can say that sentence B is a bit further to one than the other:
 
-```
-Sentences Graphed by Similarity
-A------------------B----------C
-```
+    Sentences Graphed by Similarity
+    A------------------B----------C
 
 For now, don't worry about the math behind all of this. We just want to give you a sense of the possibilities that can come from considering texts as bags of words. Note that, at a certain point, the vocabulary behind the model becomes irrelevant to this kind of thinking. We're just working with numbers, which is good for the computer! We can add the meaning and linguistic nuance back at the end, when we use this information to make humanities interpretations.
 

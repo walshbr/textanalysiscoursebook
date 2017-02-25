@@ -44,59 +44,59 @@ But you would probably need a moment to figure out what was going on if you came
 
 For a computer to understand this, we need an even more delineated way of describing the passage. We have to pay careful attention to **syntax**, the ways in which we mark particular things to provide information to the computer. Computers require very specific systematic guidelines to be able to process information, as you will learn in our chapter on "[Cyborg Readers](/textanalysiscoursebook/book/cyborg-readers)". For example, we would have to consistently use lower-case letters to represent rhyme schemes. And "line 1" to represent the first line of a poem instead of "line one." We need a clear and uniform way for describing the parts of the poem that never changes. Any variations from these rules would cause unwanted and unintended effects. Scholars have been working for years to develop such a system for describing texts in a way that can be processed by software. The **Text Encoding Initiative (TEI)**, the result of this work, is an attempt to make abstract humanities concepts legible to machines. If we apply TEI to the passage, it might begin to look something like this:
 
-```
-<lg>
-  <l>Yet each man kills the thing he loves</l>
-  <l>By each let this be heard.</l>
-  <l>Some do it with a bitter look,</l>
-  <l>Some with a flattering word.</l>
-  <l>The coward does it with a kiss,</l>
-  <l>The brave man with a sword!</l>
-</lg>
-```
+
+     <lg>
+          <l>Yet each man kills the thing he loves</l>
+          <l>By each let this be heard.</l>
+          <l>Some do it with a bitter look,</l>
+          <l>Some with a flattering word.</l>
+          <l>The coward does it with a kiss,</l>
+          <l>The brave man with a sword!</l>
+      </lg>
+
 
 Notice how our concepts like 'stanza' and 'line' have here translated into particular **tags**:  
-```
-Our stanza becomes marked by <lg> (line grouping).
-Our lines become marked with <l> (line).
-Each set of tags has both an opening (<lg>) and a closing (</lg>) tag. 
-Closing tags are almost identical to opening tags except for a forward slash - /.
-Tags have intuitive relationships to the concepts that they represent: <l> corresponds to line, and <lg> corresponds to line group.
-```
+
+* Our stanza becomes marked by <lg> (line grouping).
+* Our lines become marked with <l> (line).
+* Each set of tags has both an opening (<lg>) and a closing (</lg>) tag. 
+* Closing tags are almost identical to opening tags except for a forward slash - /.
+* Tags have intuitive relationships to the concepts that they represent: <l> corresponds to line, and <lg> corresponds to line group.
+
 The opening and closing tags wrap around and determine the locations of particular structural elements for the computer: a line exists from here to there, a stanza exists from here to there, and so on. And take note of how certain tags can exist inside others. These framing elements help the computer understand the boundaries of the concepts we are describing, and they help to provide structure to the text. Think of TEI as a new layer that exists on top of the text. Words offer one layer of meaning, but we add new layers by marking the text up with these fixed annotations. This **markup** gives the computer (or future readers) more nuanced ways of understanding how the parts in a text relate to one another.
 
 We can give further details to the poem. For example:
 
-```
-<lg type="poem">
-  <lg type="stanza">
-    <l>Yet each man kills the thing he loves</l>
-    <l>By each let this be heard.</l>
-    <l>Some do it with a bitter look,</l>
-    <l>Some with a flattering word.</l>
-    <l>The coward does it with a kiss,</l>
-    <l>The brave man with a sword!</l>
-  </lg>
-  <lg type="stanza">
-    <l> A short second stanza that we've made up.</l>
-  </lg>
-</lg>
-```
+
+      <lg type="poem">
+          <lg type="stanza">
+            <l>Yet each man kills the thing he loves</l>
+            <l>By each let this be heard.</l>
+            <l>Some do it with a bitter look,</l>
+            <l>Some with a flattering word.</l>
+            <l>The coward does it with a kiss,</l>
+            <l>The brave man with a sword!</l>
+          </lg>
+          <lg type="stanza">
+            <l> A short second stanza that we've made up.</l>
+          </lg>
+      </lg>
+
 
 Here we've added an extra stanza group as well as an outer tag to denote that this is, in fact, a poem. We also give **attributes** to certain tags to provide more information about them: type="stanza" tells the computer that the contents of this tag refer to a poem. Remember the nested hierarchy we talked about earlier? Notice how we represent it graphically by indentation. The outer poem element contains two stanzas, which contain some lines, and those have some text. You can run your eye down the text and see the structure. Some programming languages will actually error if you do not pay attention to such things. But, either way, it just helps us keep things clean and easy to read. 
 
 One last thing. Remember our rhyme scheme and line numbers? We can encode those too:
 
-``` 
-<lg type="stanza">
-    <l n="1" rhyme="a">Yet each man kills the thing he <rhyme>loves</rhyme></l>
-    <l n="2" rhyme="b">By each let this be <rhyme>heard</rhyme>.</l>
-    <l n="3" rhyme="c">Some do it with a bitter <rhyme>look</rhyme>,</l>
-    <l n="4" rhyme="b">Some with a flattering <rhyme>word</rhyme>.</l>
-    <l n="5" rhyme="d">The coward does it with a <rhyme>kiss</rhyme>,</l>
-    <l n="6" rhyme="b">The brave man with a <rhyme>sword</rhyme>!</l>
-  </lg>
- ```
+
+      <lg type="stanza">
+          <l n="1" rhyme="a">Yet each man kills the thing he <rhyme>loves</rhyme></l>
+          <l n="2" rhyme="b">By each let this be <rhyme>heard</rhyme>.</l>
+          <l n="3" rhyme="c">Some do it with a bitter <rhyme>look</rhyme>,</l>
+          <l n="4" rhyme="b">Some with a flattering <rhyme>word</rhyme>.</l>
+          <l n="5" rhyme="d">The coward does it with a <rhyme>kiss</rhyme>,</l>
+          <l n="6" rhyme="b">The brave man with a <rhyme>sword</rhyme>!</l>
+      </lg>
+ 
 
 We have added attributes to denote the line numbers for each line as well as the rhyme scheme, and then a new <rhyme> tag for each line denotes what word the rhyme is associated with. All of the tags used here can be found in the tutorial on poetry on the [TEI by Example](http://teibyexample.org/modules/TBED04v00.htm) page.
 
