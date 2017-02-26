@@ -3,19 +3,14 @@ layout: lesson
 title:  Text Encoding Initiative
 ---
 
->Yet each man kills the thing he loves
-
->By each let this be heard.
-
->Some do it with a bitter look,
-
->Some with a flattering word.
-
->The coward does it with a kiss,
-
->The brave man with a sword!
-
-> Oscar Wilde, *The Ballad of Reading Gaol*
+      Yet each man kills the thing he loves
+      By each let this be heard.
+      Some do it with a bitter look,
+      Some with a flattering word.
+      The coward does it with a kiss,
+      The brave man with a sword!
+      
+      Oscar Wilde, The Ballad of Reading Gaol
 
 This book studies texts and the things that computers can do with them. But, as you read along, you may notice that they cannot do all that much. Many of the methods that you will learn are simply sophisticated ways of counting words, whereas reading entails far more complicated processes of interpretation and analysis. When we read, we tend to skip to much more complicated understandings of a text:
 

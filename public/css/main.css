@@ -1,0 +1,26 @@
+img{
+max-height:500px;
+}
+
+.img-right{
+float: right;
+padding-left: 13.6px;
+}
+
+.medium{
+    max-width: 280px !important;
+}
+
+#ocr-image{
+    max-width: 165.275px;
+    padding-left:0px;
+    margin-left: 13.6px;
+}
+
+#prism-licensing{
+    max-width: 280px;
+}
+
+.clear{
+ clear:both;
+}

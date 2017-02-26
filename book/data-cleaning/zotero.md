@@ -16,18 +16,16 @@ Doyle, Arthur Conan. “A Scandal in Bohemia.” Sherlock Holmes: Selected Stori
 
 Hopefully you see where we're heading: that citation is composed of nothing but metadata:
 
-```
-Book Section
-Author: Doyle, Arthur Conan 
-Title: A Scandal in Bohemia
-Book: Sherlock Holmes: Selected Stories 
-Editor: Barry McCrea
-Location: Oxford
-Publisher: Oxford University Press
-Date: 2014 
-Format: Print
-Series: Oxford World’s Classics.
-```
+	Book Section
+	Author: Doyle, Arthur Conan 
+	Title: A Scandal in Bohemia
+	Book: Sherlock Holmes: Selected Stories 
+	Editor: Barry McCrea
+	Location: Oxford
+	Publisher: Oxford University Press
+	Date: 2014 
+	Format: Print
+	Series: Oxford World’s Classics.
 
 The citation is just metadata, organized according to a pre-arranged format: the MLA 7th Edition, in this case. Anytime you create a citation, you are just organizing the metadata for an object in an agreed-upon format. But the process is very tedious, as we're sure you've noticed over the years. Fortunately, if you've been following along, you know that computers are exceptionally good at executing tedious tasks just like these.
 

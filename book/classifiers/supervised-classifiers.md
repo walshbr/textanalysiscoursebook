@@ -12,27 +12,21 @@ Now imagine, instead, that we give you a slightly different exercise. We give yo
 
 This kind of classification is called **supervised classification**. You had to be taught what the characteristics of a durian were before you could really do anything. We would call this collection of traits a **feature set**, and it might look something like this:
 
-```
-feature_set = {
-'has_spikes': True,
-'size': 'big',
-'color': 'yellow-ish'
-}
-```
+	feature_set = {
+	'has_spikes': True,
+	'size': 'big',
+	'color': 'yellow-ish'
+	}
 
 Don't worry too much about the brackets, equals sign, etc. These are just a common way of organizing the information so that the computer can read them. Here, we're just saying that this feature set defines what a durian looks like: the fruit has to have spikes, be large, and yellow-ish. This allows us to make a reasonable guess as to whether or not any one piece of fruit we pull out of the bag was a durian. Notice how you can only work in binaries: the fruit is either a durian or not. Your not-durian pile had star fruit and dragon fruit in it, since you weren't really able to distinguish between the two in this thought experiment. If we pulled out a star fruit, we could only answer something like the following:
 
-```
-fruit.is_durian?
->>> False
-```
+	fruit.is_durian?
+	>>> False
 
 Or this if we were looking at a durian:
 
-```
-fruit.is_durian?
->>> True
-```
+	fruit.is_durian?
+	>>> True
 
 The test is actually pretty simple in its results, even if the feature set that leads to them is more nuanced. True and False are referred to as **boolean data types** in programming, and these boolean values are used to test or represent whether something is just that - true or false.
 

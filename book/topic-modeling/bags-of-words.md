@@ -54,22 +54,22 @@ The nuanced context of the sentences that makes the two of them different disapp
 * Sentence A: "Barbara is doing fine, thank you."
 * Sentence B: "Thank you, Dave. I am doing fine."
 
-    Words in Corpus
-    [
-        "Barbara",
-        "is",
-        "doing",
-        "fine",
-        "thank",
-        "you",
-        "Dave,
-        "I",
-        "am"
-    ]
+        Words in Corpus
+        [
+            "Barbara",
+            "is",
+            "doing",
+            "fine",
+            "thank",
+            "you",
+            "Dave,
+            "I",
+            "am"
+        ]
 
-    Counts for Sentences
-    A: [1, 1, 1, 1, 1, 1, 0, 0, 0]
-    B: [0, 0, 1, 1, 1, 1, 1, 1, 1]
+        Counts for Sentences
+        A: [1, 1, 1, 1, 1, 1, 0, 0, 0]
+        B: [0, 0, 1, 1, 1, 1, 1, 1, 1]
 
 Here we get two lists. "Words in Corpus" gives all of the words in our documents. "Counts for Sentence A" and "Counts for Sentence B" detail the number of times each of those terms occur in each sentence. So the first element of the Counts list for Sentence A is 1 because "Barbara" occurs 1 time. Sentence B has 0 in that same position because the word "Barbara" does not occur in the sentence. We could have numbers as large as we need in order to represent the text as a whole. Pretty easy for a couple of short sentences, but imagine being able to break apart whole novels like this.
 

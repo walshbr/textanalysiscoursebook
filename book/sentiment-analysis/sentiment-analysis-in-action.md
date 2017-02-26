@@ -21,9 +21,7 @@ Later, we fire up our classifier and ask it to mark a given text for sentiment. 
 
 You can find information on the training sets used by Jockers [here](https://github.com/mjockers/syuzhet#references). He uses a training lexicon of his own but gives the option to categorize sentiment using other training sets. Basically the software reads a text, looks at its memory of the training corpus to determine how positive or negative a sentence or word is, then converts the text into a series of values like this:
 
-```
-2.50 0.60 0.00 -0.25 0.00 0.00
-```
+	2.50 0.60 0.00 -0.25 0.00 0.00
 
 Now the text is converted into a series of values that represent the sentiment of the text. As the numbers of the text becomes negative or positive, we get a sense of how the classifier reads the emotions of the text. From there, it is just a matter of plotting numbers to get a better representation of the sentiment trends over time. In the end, we can get something like this graph for James Joyce's _A Portrait of the Artist as a Young Man_, taken from Jockers's explanation of the software:
 

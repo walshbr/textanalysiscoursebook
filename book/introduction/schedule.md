@@ -137,7 +137,7 @@ Through this course, students will be introduced to text analysis and data minin
 
 
 * Scandals and Contemporary Media 
-  * Anita Sarkeesian Interview: "'[The word “troll” feels too childish. This is abuse]"'(http://www.theguardian.com/technology/2015/aug/29/anita-sarkeesian-gamergate-interview-jessica-valenti) 
+  * Anita Sarkeesian Interview: "[The word 'troll' feels too childish. This is abuse](http://www.theguardian.com/technology/2015/aug/29/anita-sarkeesian-gamergate-interview-jessica-valenti)"
   * [NSA Files Decoded](http://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded) 
   * Adam Kirsch, "[Technology is Taking Over English Departments: The False Promise of the Digital Humanities](https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch)"
 

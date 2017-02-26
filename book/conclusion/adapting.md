@@ -2,7 +2,7 @@
 layout: lesson
 title:  Adapting This Book for Another Course
 ---
-***The GitBook platform that we use for publishing is changing rapidly. While you can fork our GitHub Repository and edit your own versions of the files, the GitBook platform as of this writing is too unstable for us to develop reliable documentation about how to publish your own version of the text. We will update this page when the issue has been resolved. Until then, the instructions in the Publishing section below should be considered out of date and unstable. If you are able to import your own copy of the text on GitHub by mimicking the instructions below, please make an issue on our [GitHub page](https://github.com/bmw9t/introduction-to-text-analysis/issues) to let us know. ***
+***The GitBook platform that we use for publishing is changing rapidly. While you can fork our GitHub Repository and edit your own versions of the files, the GitBook platform as of this writing is too unstable for us to develop reliable documentation about how to publish your own version of the text. We will update this page when the issue has been resolved. Until then, the instructions in the Publishing section below should be considered out of date and unstable. If you are able to import your own copy of the text on GitHub by mimicking the instructions below, please make an issue on our [GitHub page](https://github.com/bmw9t/introduction-to-text-analysis/issues) to let us know.***
 
 We encourage others to use this book for their own courses and to change it to meet the needs of their own contexts. The publishing platform here helps to facilitate this process. We especially imagine people reworking the exercises in each chapter to reflect their own disciplinary content. With a little effort you can rework the book for your own purposes and publish it to GitBooks for your students to use.
 
@@ -82,7 +82,7 @@ If you are planning to use terminal, the process is fairly similar. Once you hav
 
 Find your own clone url, copy it to your clipboard, and use it like so (without curly braces):
 
-```$ git clone {your_clone_url here}```
+	$ git clone {your_clone_url here}
 
 This will copy the repository to your machine. From there, you can edit using a plain text editor as normal and make changes to the repository using [git](https://git-scm.com/). 
 
