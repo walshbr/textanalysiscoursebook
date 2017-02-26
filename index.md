@@ -6,4 +6,4 @@ title:  Preface
 
 Enjoy!
 
-Brandon Walsh and Sarah Horowitz
+[Brandon Walsh](http://walshbr.com) and [Sarah Horowitz](https://www.wlu.edu/directory/profile?ID=x2047)
