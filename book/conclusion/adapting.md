@@ -2,7 +2,7 @@
 layout: lesson
 title:  Adapting This Book for Another Course
 ---
-*Note: This book was originally published with and hosted on GitBook, so it used to contain different steps for adapting. For steps to publish with GitBook, see the old [Adapting this Book](https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/conclusion/adapting.html) lesson. The older lesson might be easier for people with less technical experience with Ruby, command line, Markdown, etc.*
+*Note: This book was originally published with and hosted on GitBook, so it used to contain different steps for adapting. For steps to publish with GitBook, see the old [Adapting this Book](https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/conclusion/adapting.html) lesson. The older lesson might be easier for people with less technical experience with Ruby, command line, Markdown, etc. And a final caveat - the screenshots below are partially taken from the old tutorial, so they may be out of date. You'll be looking for things that look similar but not identical. Eventually I'll update these for the new Jekyll narrative.*
 
 We encourage others to use this book for their own courses and to change it to meet the needs of their own contexts. The publishing platform here helps to facilitate this process. We especially imagine people reworking the exercises in each chapter to reflect their own disciplinary content. With a little effort you can rework the book for your own purposes and publish it for your students to use.
 
