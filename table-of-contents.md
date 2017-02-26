@@ -1,4 +1,7 @@
-# Table of Contents
+---
+layout: lesson
+title: Table of Contents
+---
 
 * [Preface](/textanalysiscoursebook/book/README)
 * [Acknowledgements](/textanalysiscoursebook/book/acknowledgements)
@@ -50,4 +53,3 @@
     * [Where to Go Next](/textanalysiscoursebook/book/conclusion/where-to-go)
     * [Further Resources](/textanalysiscoursebook/book/conclusion/resources)
     * [Adapting This Book](/textanalysiscoursebook/book/conclusion/adapting)
-
